@@ -1,0 +1,32 @@
+the pic waits to match is : Dataset_Directory/query/image_1103.jpg
+Matches are: 
+	Distance: 53.24361801147461, FileName: image_02058.jpg
+	Distance: 54.375648498535156, FileName: image_01770.jpg
+	Distance: 54.440364837646484, FileName: image_00828.jpg
+	Distance: 54.492042541503906, FileName: image_01030.jpg
+the pic waits to match is : Dataset_Directory/query/image_1075.jpg
+Matches are: 
+	Distance: 47.71315002441406, FileName: image_01613.jpg
+	Distance: 48.68346405029297, FileName: image_02375.jpg
+	Distance: 50.20267105102539, FileName: image_01485.jpg
+	Distance: 50.847328186035156, FileName: image_00709.jpg
+the pic waits to match is : Dataset_Directory/query/image_1186.jpg
+Matches are: 
+	Distance: 55.99709701538086, FileName: image_02921.jpg
+	Distance: 58.469261169433594, FileName: image_02948.jpg
+	Distance: 59.22671127319336, FileName: image_00198.jpg
+	Distance: 59.59328842163086, FileName: image_02707.jpg
+the pic waits to match is : Dataset_Directory/query/image_1082.jpg
+Matches are: 
+	Distance: 61.12889099121094, FileName: image_02155.jpg
+	Distance: 62.286006927490234, FileName: image_00233.jpg
+	Distance: 62.46181869506836, FileName: image_02708.jpg
+	Distance: 62.648807525634766, FileName: image_00823.jpg
+the pic waits to match is : Dataset_Directory/query/image_1079.jpg
+Matches are: 
+	Distance: 59.58844757080078, FileName: image_02765.jpg
+	Distance: 63.1976318359375, FileName: image_02279.jpg
+	Distance: 63.614871978759766, FileName: image_00198.jpg
+	Distance: 63.68663024902344, FileName: image_00481.jpg
+Total time taken for 250 images (minutes): 5.456559034188588
+Total Precision@4 Avg: 0.0

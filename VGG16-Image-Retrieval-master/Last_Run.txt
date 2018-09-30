@@ -1,0 +1,2002 @@
+Current Correct list: ['image_00800.jpg', 'image_00801.jpg', 'image_00802.jpg', 'image_00803.jpg']
+Matches are: 
+	Distance: 1.1993199586868286, FileName: image_00800.jpg
+	Distance: 40.64997863769531, FileName: image_00803.jpg
+	Distance: 50.045963287353516, FileName: image_00802.jpg
+	Distance: 51.23271942138672, FileName: image_00801.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00320.jpg', 'image_00321.jpg', 'image_00322.jpg', 'image_00323.jpg']
+Matches are: 
+	Distance: 1.741934895515442, FileName: image_00320.jpg
+	Distance: 43.8211784362793, FileName: image_00321.jpg
+	Distance: 47.70759201049805, FileName: image_00323.jpg
+	Distance: 47.965309143066406, FileName: image_00322.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00092.jpg', 'image_00093.jpg', 'image_00094.jpg', 'image_00095.jpg']
+Matches are: 
+	Distance: 1.2891161441802979, FileName: image_00092.jpg
+	Distance: 27.35870933532715, FileName: image_00093.jpg
+	Distance: 27.7501163482666, FileName: image_00094.jpg
+	Distance: 41.863426208496094, FileName: image_00095.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00844.jpg', 'image_00845.jpg', 'image_00846.jpg', 'image_00847.jpg']
+Matches are: 
+	Distance: 1.181161642074585, FileName: image_00844.jpg
+	Distance: 52.14484786987305, FileName: image_00846.jpg
+	Distance: 52.383670806884766, FileName: image_00847.jpg
+	Distance: 59.03169250488281, FileName: image_00150.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00804.jpg', 'image_00805.jpg', 'image_00806.jpg', 'image_00807.jpg']
+Matches are: 
+	Distance: 1.6767975091934204, FileName: image_00804.jpg
+	Distance: 57.932796478271484, FileName: image_00805.jpg
+	Distance: 60.24247741699219, FileName: image_00807.jpg
+	Distance: 62.17618942260742, FileName: image_00806.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00852.jpg', 'image_00853.jpg', 'image_00854.jpg', 'image_00855.jpg']
+Matches are: 
+	Distance: 1.2665570974349976, FileName: image_00852.jpg
+	Distance: 27.031755447387695, FileName: image_00853.jpg
+	Distance: 31.14650535583496, FileName: image_00854.jpg
+	Distance: 40.996131896972656, FileName: image_00855.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00240.jpg', 'image_00241.jpg', 'image_00242.jpg', 'image_00243.jpg']
+Matches are: 
+	Distance: 1.149020791053772, FileName: image_00240.jpg
+	Distance: 32.63728713989258, FileName: image_00241.jpg
+	Distance: 38.30374526977539, FileName: image_00243.jpg
+	Distance: 43.50800323486328, FileName: image_00242.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00484.jpg', 'image_00485.jpg', 'image_00486.jpg', 'image_00487.jpg']
+Matches are: 
+	Distance: 1.5555930137634277, FileName: image_00484.jpg
+	Distance: 35.47423553466797, FileName: image_00486.jpg
+	Distance: 40.95749282836914, FileName: image_00485.jpg
+	Distance: 49.004722595214844, FileName: image_00487.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00420.jpg', 'image_00421.jpg', 'image_00422.jpg', 'image_00423.jpg']
+Matches are: 
+	Distance: 1.4896150827407837, FileName: image_00420.jpg
+	Distance: 26.352943420410156, FileName: image_00421.jpg
+	Distance: 31.95915412902832, FileName: image_00422.jpg
+	Distance: 32.194210052490234, FileName: image_00423.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00960.jpg', 'image_00961.jpg', 'image_00962.jpg', 'image_00963.jpg']
+Matches are: 
+	Distance: 3.0368916988372803, FileName: image_00960.jpg
+	Distance: 48.25764846801758, FileName: image_00961.jpg
+	Distance: 50.263893127441406, FileName: image_00962.jpg
+	Distance: 52.940975189208984, FileName: image_00963.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00168.jpg', 'image_00169.jpg', 'image_00170.jpg', 'image_00171.jpg']
+Matches are: 
+	Distance: 1.227184772491455, FileName: image_00168.jpg
+	Distance: 35.47765350341797, FileName: image_00169.jpg
+	Distance: 38.094173431396484, FileName: image_00171.jpg
+	Distance: 43.834510803222656, FileName: image_00170.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00452.jpg', 'image_00453.jpg', 'image_00454.jpg', 'image_00455.jpg']
+Matches are: 
+	Distance: 0.9402470588684082, FileName: image_00452.jpg
+	Distance: 25.209741592407227, FileName: image_00454.jpg
+	Distance: 37.76229476928711, FileName: image_00453.jpg
+	Distance: 41.182437896728516, FileName: image_00455.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00412.jpg', 'image_00413.jpg', 'image_00414.jpg', 'image_00415.jpg']
+Matches are: 
+	Distance: 2.1022326946258545, FileName: image_00412.jpg
+	Distance: 35.22590637207031, FileName: image_00413.jpg
+	Distance: 37.791526794433594, FileName: image_00415.jpg
+	Distance: 39.18037414550781, FileName: image_00414.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00440.jpg', 'image_00441.jpg', 'image_00442.jpg', 'image_00443.jpg']
+Matches are: 
+	Distance: 2.1493687629699707, FileName: image_00440.jpg
+	Distance: 46.11851501464844, FileName: image_00441.jpg
+	Distance: 48.60196304321289, FileName: image_00442.jpg
+	Distance: 57.80984878540039, FileName: image_00443.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00160.jpg', 'image_00161.jpg', 'image_00162.jpg', 'image_00163.jpg']
+Matches are: 
+	Distance: 0.7221804261207581, FileName: image_00160.jpg
+	Distance: 17.909387588500977, FileName: image_00161.jpg
+	Distance: 19.71296501159668, FileName: image_00162.jpg
+	Distance: 41.45223617553711, FileName: image_00140.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00956.jpg', 'image_00957.jpg', 'image_00958.jpg', 'image_00959.jpg']
+Matches are: 
+	Distance: 1.6247074604034424, FileName: image_00956.jpg
+	Distance: 55.1265869140625, FileName: image_00958.jpg
+	Distance: 58.03306198120117, FileName: image_00957.jpg
+	Distance: 61.217262268066406, FileName: image_00946.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00032.jpg', 'image_00033.jpg', 'image_00034.jpg', 'image_00035.jpg']
+Matches are: 
+	Distance: 0.9528777003288269, FileName: image_00032.jpg
+	Distance: 58.17909240722656, FileName: image_00033.jpg
+	Distance: 59.939083099365234, FileName: image_00034.jpg
+	Distance: 67.54645538330078, FileName: image_00035.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00208.jpg', 'image_00209.jpg', 'image_00210.jpg', 'image_00211.jpg']
+Matches are: 
+	Distance: 2.153897523880005, FileName: image_00208.jpg
+	Distance: 39.58274841308594, FileName: image_00209.jpg
+	Distance: 47.66529846191406, FileName: image_00211.jpg
+	Distance: 50.24536895751953, FileName: image_00210.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00968.jpg', 'image_00969.jpg', 'image_00970.jpg', 'image_00971.jpg']
+Matches are: 
+	Distance: 1.2899658679962158, FileName: image_00968.jpg
+	Distance: 41.5468635559082, FileName: image_00157.jpg
+	Distance: 42.50917053222656, FileName: image_00969.jpg
+	Distance: 43.41104507446289, FileName: image_00156.jpg
+	Precision@4: 0.5
+
+Current Correct list: ['image_00396.jpg', 'image_00397.jpg', 'image_00398.jpg', 'image_00399.jpg']
+Matches are: 
+	Distance: 1.0278847217559814, FileName: image_00396.jpg
+	Distance: 44.29307174682617, FileName: image_00397.jpg
+	Distance: 48.30231857299805, FileName: image_00399.jpg
+	Distance: 52.00397872924805, FileName: image_00400.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00388.jpg', 'image_00389.jpg', 'image_00390.jpg', 'image_00391.jpg']
+Matches are: 
+	Distance: 1.0274375677108765, FileName: image_00388.jpg
+	Distance: 26.14508628845215, FileName: image_00391.jpg
+	Distance: 30.476932525634766, FileName: image_00389.jpg
+	Distance: 34.81145095825195, FileName: image_00390.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00492.jpg', 'image_00493.jpg', 'image_00494.jpg', 'image_00495.jpg']
+Matches are: 
+	Distance: 1.1515191793441772, FileName: image_00492.jpg
+	Distance: 37.188072204589844, FileName: image_00493.jpg
+	Distance: 42.03684997558594, FileName: image_00494.jpg
+	Distance: 49.68430709838867, FileName: image_00407.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00352.jpg', 'image_00353.jpg', 'image_00354.jpg', 'image_00355.jpg']
+Matches are: 
+	Distance: 2.7282683849334717, FileName: image_00352.jpg
+	Distance: 34.84521484375, FileName: image_00353.jpg
+	Distance: 40.23207092285156, FileName: image_00355.jpg
+	Distance: 41.71860885620117, FileName: image_00354.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00264.jpg', 'image_00265.jpg', 'image_00266.jpg', 'image_00267.jpg']
+Matches are: 
+	Distance: 2.3601608276367188, FileName: image_00264.jpg
+	Distance: 32.60321807861328, FileName: image_00265.jpg
+	Distance: 43.12968826293945, FileName: image_00266.jpg
+	Distance: 63.36848449707031, FileName: image_00267.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00908.jpg', 'image_00909.jpg', 'image_00910.jpg', 'image_00911.jpg']
+Matches are: 
+	Distance: 1.1599942445755005, FileName: image_00908.jpg
+	Distance: 33.718265533447266, FileName: image_00909.jpg
+	Distance: 41.26734924316406, FileName: image_00910.jpg
+	Distance: 53.60546875, FileName: image_00911.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00576.jpg', 'image_00577.jpg', 'image_00578.jpg', 'image_00579.jpg']
+Matches are: 
+	Distance: 1.3548732995986938, FileName: image_00576.jpg
+	Distance: 40.74583053588867, FileName: image_00578.jpg
+	Distance: 40.93770980834961, FileName: image_00579.jpg
+	Distance: 43.70512390136719, FileName: image_00577.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00820.jpg', 'image_00821.jpg', 'image_00822.jpg', 'image_00823.jpg']
+Matches are: 
+	Distance: 0.913849413394928, FileName: image_00820.jpg
+	Distance: 29.15351676940918, FileName: image_00821.jpg
+	Distance: 31.65330696105957, FileName: image_00822.jpg
+	Distance: 39.61915588378906, FileName: image_00823.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00236.jpg', 'image_00237.jpg', 'image_00238.jpg', 'image_00239.jpg']
+Matches are: 
+	Distance: 1.0054715871810913, FileName: image_00236.jpg
+	Distance: 39.304847717285156, FileName: image_00237.jpg
+	Distance: 43.061973571777344, FileName: image_00239.jpg
+	Distance: 56.73779296875, FileName: image_00232.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00588.jpg', 'image_00589.jpg', 'image_00590.jpg', 'image_00591.jpg']
+Matches are: 
+	Distance: 0.9742540717124939, FileName: image_00588.jpg
+	Distance: 26.844423294067383, FileName: image_00589.jpg
+	Distance: 32.534549713134766, FileName: image_00590.jpg
+	Distance: 35.366844177246094, FileName: image_00591.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00828.jpg', 'image_00829.jpg', 'image_00830.jpg', 'image_00831.jpg']
+Matches are: 
+	Distance: 1.481040596961975, FileName: image_00828.jpg
+	Distance: 39.48747634887695, FileName: image_00830.jpg
+	Distance: 39.91202926635742, FileName: image_00829.jpg
+	Distance: 44.16685104370117, FileName: image_00831.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00176.jpg', 'image_00177.jpg', 'image_00178.jpg', 'image_00179.jpg']
+Matches are: 
+	Distance: 1.39005446434021, FileName: image_00176.jpg
+	Distance: 33.009979248046875, FileName: image_00177.jpg
+	Distance: 38.050819396972656, FileName: image_00178.jpg
+	Distance: 43.9507942199707, FileName: image_00179.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00540.jpg', 'image_00541.jpg', 'image_00542.jpg', 'image_00543.jpg']
+Matches are: 
+	Distance: 0.9744585156440735, FileName: image_00540.jpg
+	Distance: 39.6776123046875, FileName: image_00541.jpg
+	Distance: 41.448856353759766, FileName: image_00542.jpg
+	Distance: 46.904850006103516, FileName: image_00543.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00604.jpg', 'image_00605.jpg', 'image_00606.jpg', 'image_00607.jpg']
+Matches are: 
+	Distance: 1.7941346168518066, FileName: image_00604.jpg
+	Distance: 34.07112121582031, FileName: image_00607.jpg
+	Distance: 38.149513244628906, FileName: image_00606.jpg
+	Distance: 44.30476379394531, FileName: image_00605.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00184.jpg', 'image_00185.jpg', 'image_00186.jpg', 'image_00187.jpg']
+Matches are: 
+	Distance: 1.0775251388549805, FileName: image_00184.jpg
+	Distance: 35.763954162597656, FileName: image_00186.jpg
+	Distance: 35.896480560302734, FileName: image_00187.jpg
+	Distance: 36.256412506103516, FileName: image_00185.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00596.jpg', 'image_00597.jpg', 'image_00598.jpg', 'image_00599.jpg']
+Matches are: 
+	Distance: 1.1931188106536865, FileName: image_00596.jpg
+	Distance: 36.550880432128906, FileName: image_00597.jpg
+	Distance: 50.13422775268555, FileName: image_00598.jpg
+	Distance: 60.0427360534668, FileName: image_00599.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00272.jpg', 'image_00273.jpg', 'image_00274.jpg', 'image_00275.jpg']
+Matches are: 
+	Distance: 1.8401166200637817, FileName: image_00272.jpg
+	Distance: 37.347869873046875, FileName: image_00273.jpg
+	Distance: 48.5986442565918, FileName: image_00274.jpg
+	Distance: 50.43791961669922, FileName: image_00275.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00900.jpg', 'image_00901.jpg', 'image_00902.jpg', 'image_00903.jpg']
+Matches are: 
+	Distance: 1.1226035356521606, FileName: image_00900.jpg
+	Distance: 29.120206832885742, FileName: image_00901.jpg
+	Distance: 38.62020492553711, FileName: image_00902.jpg
+	Distance: 38.98613739013672, FileName: image_00903.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00468.jpg', 'image_00469.jpg', 'image_00470.jpg', 'image_00471.jpg']
+Matches are: 
+	Distance: 1.6705271005630493, FileName: image_00468.jpg
+	Distance: 32.23814392089844, FileName: image_00470.jpg
+	Distance: 36.42453384399414, FileName: image_00469.jpg
+	Distance: 52.02167892456055, FileName: image_00471.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00292.jpg', 'image_00293.jpg', 'image_00294.jpg', 'image_00295.jpg']
+Matches are: 
+	Distance: 1.8970887660980225, FileName: image_00292.jpg
+	Distance: 39.724830627441406, FileName: image_00294.jpg
+	Distance: 41.27684783935547, FileName: image_00293.jpg
+	Distance: 57.31655502319336, FileName: image_00226.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00784.jpg', 'image_00785.jpg', 'image_00786.jpg', 'image_00787.jpg']
+Matches are: 
+	Distance: 0.9813063740730286, FileName: image_00784.jpg
+	Distance: 61.99718475341797, FileName: image_00785.jpg
+	Distance: 64.66622924804688, FileName: image_00787.jpg
+	Distance: 68.31371307373047, FileName: image_00786.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00416.jpg', 'image_00417.jpg', 'image_00418.jpg', 'image_00419.jpg']
+Matches are: 
+	Distance: 1.8074946403503418, FileName: image_00416.jpg
+	Distance: 36.76377868652344, FileName: image_00419.jpg
+	Distance: 37.38985824584961, FileName: image_00417.jpg
+	Distance: 42.222171783447266, FileName: image_00418.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00772.jpg', 'image_00773.jpg', 'image_00774.jpg', 'image_00775.jpg']
+Matches are: 
+	Distance: 1.5178996324539185, FileName: image_00772.jpg
+	Distance: 40.66700744628906, FileName: image_00775.jpg
+	Distance: 50.50153350830078, FileName: image_00774.jpg
+	Distance: 56.911346435546875, FileName: image_00773.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00260.jpg', 'image_00261.jpg', 'image_00262.jpg', 'image_00263.jpg']
+Matches are: 
+	Distance: 0.8476377129554749, FileName: image_00260.jpg
+	Distance: 36.55916976928711, FileName: image_00262.jpg
+	Distance: 43.74000930786133, FileName: image_00263.jpg
+	Distance: 50.314178466796875, FileName: image_00261.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00064.jpg', 'image_00065.jpg', 'image_00066.jpg', 'image_00067.jpg']
+Matches are: 
+	Distance: 2.1292672157287598, FileName: image_00064.jpg
+	Distance: 33.80040740966797, FileName: image_00066.jpg
+	Distance: 45.56051254272461, FileName: image_00067.jpg
+	Distance: 51.324161529541016, FileName: image_00065.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00792.jpg', 'image_00793.jpg', 'image_00794.jpg', 'image_00795.jpg']
+Matches are: 
+	Distance: 0.8148462176322937, FileName: image_00792.jpg
+	Distance: 42.00419616699219, FileName: image_00793.jpg
+	Distance: 45.24271774291992, FileName: image_00794.jpg
+	Distance: 63.29754638671875, FileName: image_00795.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00016.jpg', 'image_00017.jpg', 'image_00018.jpg', 'image_00019.jpg']
+Matches are: 
+	Distance: 0.9805684089660645, FileName: image_00016.jpg
+	Distance: 54.92749786376953, FileName: image_00019.jpg
+	Distance: 57.1926155090332, FileName: image_00198.jpg
+	Distance: 57.926761627197266, FileName: image_00001.jpg
+	Precision@4: 0.5
+
+Current Correct list: ['image_00256.jpg', 'image_00257.jpg', 'image_00258.jpg', 'image_00259.jpg']
+Matches are: 
+	Distance: 1.635675311088562, FileName: image_00256.jpg
+	Distance: 46.11636734008789, FileName: image_00257.jpg
+	Distance: 50.651519775390625, FileName: image_00258.jpg
+	Distance: 54.863094329833984, FileName: image_00259.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00436.jpg', 'image_00437.jpg', 'image_00438.jpg', 'image_00439.jpg']
+Matches are: 
+	Distance: 1.1116327047348022, FileName: image_00436.jpg
+	Distance: 36.04753875732422, FileName: image_00439.jpg
+	Distance: 39.667808532714844, FileName: image_00437.jpg
+	Distance: 41.66746139526367, FileName: image_00438.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00296.jpg', 'image_00297.jpg', 'image_00298.jpg', 'image_00299.jpg']
+Matches are: 
+	Distance: 1.5593461990356445, FileName: image_00296.jpg
+	Distance: 28.248817443847656, FileName: image_00297.jpg
+	Distance: 37.27690124511719, FileName: image_00299.jpg
+	Distance: 45.14020538330078, FileName: image_00298.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00356.jpg', 'image_00357.jpg', 'image_00358.jpg', 'image_00359.jpg']
+Matches are: 
+	Distance: 1.3483389616012573, FileName: image_00356.jpg
+	Distance: 44.42667770385742, FileName: image_00357.jpg
+	Distance: 54.1365852355957, FileName: image_00359.jpg
+	Distance: 56.89924240112305, FileName: image_00358.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00116.jpg', 'image_00117.jpg', 'image_00118.jpg', 'image_00119.jpg']
+Matches are: 
+	Distance: 1.531531572341919, FileName: image_00116.jpg
+	Distance: 41.34434509277344, FileName: image_00117.jpg
+	Distance: 43.092811584472656, FileName: image_00309.jpg
+	Distance: 46.05247116088867, FileName: image_00118.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00856.jpg', 'image_00857.jpg', 'image_00858.jpg', 'image_00859.jpg']
+Matches are: 
+	Distance: 0.9558356404304504, FileName: image_00856.jpg
+	Distance: 29.32946014404297, FileName: image_00857.jpg
+	Distance: 34.79780578613281, FileName: image_00858.jpg
+	Distance: 36.187721252441406, FileName: image_00859.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00808.jpg', 'image_00809.jpg', 'image_00810.jpg', 'image_00811.jpg']
+Matches are: 
+	Distance: 1.985105276107788, FileName: image_00808.jpg
+	Distance: 40.4604377746582, FileName: image_00810.jpg
+	Distance: 42.88231658935547, FileName: image_00809.jpg
+	Distance: 47.16175079345703, FileName: image_00811.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00780.jpg', 'image_00781.jpg', 'image_00782.jpg', 'image_00783.jpg']
+Matches are: 
+	Distance: 1.313561201095581, FileName: image_00780.jpg
+	Distance: 44.248592376708984, FileName: image_00783.jpg
+	Distance: 50.29296112060547, FileName: image_00781.jpg
+	Distance: 50.68014907836914, FileName: image_00782.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00232.jpg', 'image_00233.jpg', 'image_00234.jpg', 'image_00235.jpg']
+Matches are: 
+	Distance: 1.1103345155715942, FileName: image_00232.jpg
+	Distance: 44.281166076660156, FileName: image_00234.jpg
+	Distance: 44.41154861450195, FileName: image_00233.jpg
+	Distance: 51.65748977661133, FileName: image_00235.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00776.jpg', 'image_00777.jpg', 'image_00778.jpg', 'image_00779.jpg']
+Matches are: 
+	Distance: 1.1225812435150146, FileName: image_00776.jpg
+	Distance: 64.42244720458984, FileName: image_00777.jpg
+	Distance: 65.58855438232422, FileName: image_00846.jpg
+	Distance: 67.07376098632812, FileName: image_00778.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00688.jpg', 'image_00689.jpg', 'image_00690.jpg', 'image_00691.jpg']
+Matches are: 
+	Distance: 0.7434802055358887, FileName: image_00688.jpg
+	Distance: 34.56039810180664, FileName: image_00689.jpg
+	Distance: 37.12833023071289, FileName: image_00690.jpg
+	Distance: 37.16370391845703, FileName: image_00691.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00340.jpg', 'image_00341.jpg', 'image_00342.jpg', 'image_00343.jpg']
+Matches are: 
+	Distance: 1.1052311658859253, FileName: image_00340.jpg
+	Distance: 48.927223205566406, FileName: image_00341.jpg
+	Distance: 51.76749801635742, FileName: image_00342.jpg
+	Distance: 54.9583740234375, FileName: image_00093.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00996.jpg', 'image_00997.jpg', 'image_00998.jpg', 'image_00999.jpg']
+Matches are: 
+	Distance: 1.6672000885009766, FileName: image_00996.jpg
+	Distance: 26.758831024169922, FileName: image_00997.jpg
+	Distance: 29.912330627441406, FileName: image_00998.jpg
+	Distance: 40.24964904785156, FileName: image_00999.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00084.jpg', 'image_00085.jpg', 'image_00086.jpg', 'image_00087.jpg']
+Matches are: 
+	Distance: 1.534203290939331, FileName: image_00084.jpg
+	Distance: 24.001537322998047, FileName: image_00085.jpg
+	Distance: 30.751399993896484, FileName: image_00086.jpg
+	Distance: 39.89960861206055, FileName: image_00087.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00424.jpg', 'image_00425.jpg', 'image_00426.jpg', 'image_00427.jpg']
+Matches are: 
+	Distance: 2.3073463439941406, FileName: image_00424.jpg
+	Distance: 36.7288818359375, FileName: image_00425.jpg
+	Distance: 38.78251266479492, FileName: image_00427.jpg
+	Distance: 46.977481842041016, FileName: image_00426.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00472.jpg', 'image_00473.jpg', 'image_00474.jpg', 'image_00475.jpg']
+Matches are: 
+	Distance: 1.4965883493423462, FileName: image_00472.jpg
+	Distance: 50.19984817504883, FileName: image_00474.jpg
+	Distance: 60.9019660949707, FileName: image_00352.jpg
+	Distance: 62.28523254394531, FileName: image_00475.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00112.jpg', 'image_00113.jpg', 'image_00114.jpg', 'image_00115.jpg']
+Matches are: 
+	Distance: 1.874488353729248, FileName: image_00112.jpg
+	Distance: 32.06190872192383, FileName: image_00114.jpg
+	Distance: 35.93989181518555, FileName: image_00113.jpg
+	Distance: 36.47682189941406, FileName: image_00115.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00552.jpg', 'image_00553.jpg', 'image_00554.jpg', 'image_00555.jpg']
+Matches are: 
+	Distance: 1.905132532119751, FileName: image_00552.jpg
+	Distance: 30.08031463623047, FileName: image_00554.jpg
+	Distance: 39.10734939575195, FileName: image_00555.jpg
+	Distance: 43.49490737915039, FileName: image_00553.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00188.jpg', 'image_00189.jpg', 'image_00190.jpg', 'image_00191.jpg']
+Matches are: 
+	Distance: 1.1382454633712769, FileName: image_00188.jpg
+	Distance: 28.602956771850586, FileName: image_00189.jpg
+	Distance: 36.55290603637695, FileName: image_00191.jpg
+	Distance: 38.13124465942383, FileName: image_00190.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00684.jpg', 'image_00685.jpg', 'image_00686.jpg', 'image_00687.jpg']
+Matches are: 
+	Distance: 0.9742820858955383, FileName: image_00684.jpg
+	Distance: 18.011154174804688, FileName: image_00685.jpg
+	Distance: 29.216054916381836, FileName: image_00686.jpg
+	Distance: 40.00545883178711, FileName: image_00687.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00896.jpg', 'image_00897.jpg', 'image_00898.jpg', 'image_00899.jpg']
+Matches are: 
+	Distance: 0.7895646691322327, FileName: image_00896.jpg
+	Distance: 37.40459442138672, FileName: image_00897.jpg
+	Distance: 54.65519332885742, FileName: image_00898.jpg
+	Distance: 58.71052169799805, FileName: image_00823.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00228.jpg', 'image_00229.jpg', 'image_00230.jpg', 'image_00231.jpg']
+Matches are: 
+	Distance: 1.1015104055404663, FileName: image_00228.jpg
+	Distance: 31.75891876220703, FileName: image_00229.jpg
+	Distance: 49.38088607788086, FileName: image_00231.jpg
+	Distance: 50.50605773925781, FileName: image_00230.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00660.jpg', 'image_00661.jpg', 'image_00662.jpg', 'image_00663.jpg']
+Matches are: 
+	Distance: 1.1719627380371094, FileName: image_00660.jpg
+	Distance: 39.996334075927734, FileName: image_00663.jpg
+	Distance: 47.280460357666016, FileName: image_00661.jpg
+	Distance: 50.06813430786133, FileName: image_00662.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00300.jpg', 'image_00301.jpg', 'image_00302.jpg', 'image_00303.jpg']
+Matches are: 
+	Distance: 1.3711681365966797, FileName: image_00300.jpg
+	Distance: 38.99100112915039, FileName: image_00301.jpg
+	Distance: 45.147491455078125, FileName: image_00302.jpg
+	Distance: 51.833065032958984, FileName: image_00183.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00672.jpg', 'image_00673.jpg', 'image_00674.jpg', 'image_00675.jpg']
+Matches are: 
+	Distance: 1.0658020973205566, FileName: image_00672.jpg
+	Distance: 34.79493713378906, FileName: image_00675.jpg
+	Distance: 35.19712448120117, FileName: image_00673.jpg
+	Distance: 45.65331268310547, FileName: image_00674.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00564.jpg', 'image_00565.jpg', 'image_00566.jpg', 'image_00567.jpg']
+Matches are: 
+	Distance: 0.9981101751327515, FileName: image_00564.jpg
+	Distance: 27.461915969848633, FileName: image_00565.jpg
+	Distance: 29.17455291748047, FileName: image_00566.jpg
+	Distance: 35.076175689697266, FileName: image_00567.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00504.jpg', 'image_00505.jpg', 'image_00506.jpg', 'image_00507.jpg']
+Matches are: 
+	Distance: 2.434814691543579, FileName: image_00504.jpg
+	Distance: 36.175960540771484, FileName: image_00505.jpg
+	Distance: 38.96599578857422, FileName: image_00507.jpg
+	Distance: 55.78227996826172, FileName: image_00156.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00384.jpg', 'image_00385.jpg', 'image_00386.jpg', 'image_00387.jpg']
+Matches are: 
+	Distance: 0.6825075149536133, FileName: image_00384.jpg
+	Distance: 29.45686149597168, FileName: image_00385.jpg
+	Distance: 34.331703186035156, FileName: image_00386.jpg
+	Distance: 39.22848892211914, FileName: image_00387.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00532.jpg', 'image_00533.jpg', 'image_00534.jpg', 'image_00535.jpg']
+Matches are: 
+	Distance: 2.062946319580078, FileName: image_00532.jpg
+	Distance: 41.42007064819336, FileName: image_00534.jpg
+	Distance: 43.82194519042969, FileName: image_00535.jpg
+	Distance: 46.76491165161133, FileName: image_00533.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00736.jpg', 'image_00737.jpg', 'image_00738.jpg', 'image_00739.jpg']
+Matches are: 
+	Distance: 1.1464112997055054, FileName: image_00736.jpg
+	Distance: 26.457460403442383, FileName: image_00738.jpg
+	Distance: 35.72950744628906, FileName: image_00739.jpg
+	Distance: 36.81472396850586, FileName: image_00737.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00068.jpg', 'image_00069.jpg', 'image_00070.jpg', 'image_00071.jpg']
+Matches are: 
+	Distance: 1.207474946975708, FileName: image_00068.jpg
+	Distance: 45.63406753540039, FileName: image_00069.jpg
+	Distance: 56.31134796142578, FileName: image_00070.jpg
+	Distance: 61.69919967651367, FileName: image_00071.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00128.jpg', 'image_00129.jpg', 'image_00130.jpg', 'image_00131.jpg']
+Matches are: 
+	Distance: 1.8552500009536743, FileName: image_00128.jpg
+	Distance: 32.84404754638672, FileName: image_00131.jpg
+	Distance: 38.956871032714844, FileName: image_00129.jpg
+	Distance: 39.270790100097656, FileName: image_00130.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00920.jpg', 'image_00921.jpg', 'image_00922.jpg', 'image_00923.jpg']
+Matches are: 
+	Distance: 1.7640494108200073, FileName: image_00920.jpg
+	Distance: 37.97859191894531, FileName: image_00921.jpg
+	Distance: 39.211822509765625, FileName: image_00922.jpg
+	Distance: 39.567909240722656, FileName: image_00923.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00728.jpg', 'image_00729.jpg', 'image_00730.jpg', 'image_00731.jpg']
+Matches are: 
+	Distance: 1.857191801071167, FileName: image_00728.jpg
+	Distance: 31.235820770263672, FileName: image_00729.jpg
+	Distance: 34.952579498291016, FileName: image_00730.jpg
+	Distance: 37.52766799926758, FileName: image_00731.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00528.jpg', 'image_00529.jpg', 'image_00530.jpg', 'image_00531.jpg']
+Matches are: 
+	Distance: 0.7671247124671936, FileName: image_00528.jpg
+	Distance: 53.92607116699219, FileName: image_00817.jpg
+	Distance: 56.15957260131836, FileName: image_00477.jpg
+	Distance: 56.41653060913086, FileName: image_00980.jpg
+	Precision@4: 0.25
+
+Current Correct list: ['image_00592.jpg', 'image_00593.jpg', 'image_00594.jpg', 'image_00595.jpg']
+Matches are: 
+	Distance: 1.2679044008255005, FileName: image_00592.jpg
+	Distance: 33.50063705444336, FileName: image_00593.jpg
+	Distance: 53.2056999206543, FileName: image_00594.jpg
+	Distance: 62.57523727416992, FileName: image_00595.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00656.jpg', 'image_00657.jpg', 'image_00658.jpg', 'image_00659.jpg']
+Matches are: 
+	Distance: 0.9922333359718323, FileName: image_00656.jpg
+	Distance: 33.093692779541016, FileName: image_00657.jpg
+	Distance: 38.02444076538086, FileName: image_00658.jpg
+	Distance: 43.203121185302734, FileName: image_00659.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00456.jpg', 'image_00457.jpg', 'image_00458.jpg', 'image_00459.jpg']
+Matches are: 
+	Distance: 1.5848076343536377, FileName: image_00456.jpg
+	Distance: 27.44544219970703, FileName: image_00458.jpg
+	Distance: 29.629060745239258, FileName: image_00457.jpg
+	Distance: 44.008758544921875, FileName: image_00459.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00076.jpg', 'image_00077.jpg', 'image_00078.jpg', 'image_00079.jpg']
+Matches are: 
+	Distance: 1.2727969884872437, FileName: image_00076.jpg
+	Distance: 24.278776168823242, FileName: image_00078.jpg
+	Distance: 26.531116485595703, FileName: image_00079.jpg
+	Distance: 33.17593002319336, FileName: image_00077.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00332.jpg', 'image_00333.jpg', 'image_00334.jpg', 'image_00335.jpg']
+Matches are: 
+	Distance: 2.054337978363037, FileName: image_00332.jpg
+	Distance: 30.88031578063965, FileName: image_00333.jpg
+	Distance: 33.07743453979492, FileName: image_00334.jpg
+	Distance: 51.07850646972656, FileName: image_00335.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00156.jpg', 'image_00157.jpg', 'image_00158.jpg', 'image_00159.jpg']
+Matches are: 
+	Distance: 2.02649188041687, FileName: image_00156.jpg
+	Distance: 19.49141502380371, FileName: image_00157.jpg
+	Distance: 32.008445739746094, FileName: image_00158.jpg
+	Distance: 32.81084060668945, FileName: image_00344.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00548.jpg', 'image_00549.jpg', 'image_00550.jpg', 'image_00551.jpg']
+Matches are: 
+	Distance: 1.5316638946533203, FileName: image_00548.jpg
+	Distance: 43.832149505615234, FileName: image_00550.jpg
+	Distance: 43.86019515991211, FileName: image_00549.jpg
+	Distance: 50.28826904296875, FileName: image_00551.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00860.jpg', 'image_00861.jpg', 'image_00862.jpg', 'image_00863.jpg']
+Matches are: 
+	Distance: 1.090914249420166, FileName: image_00860.jpg
+	Distance: 57.53640365600586, FileName: image_00861.jpg
+	Distance: 58.87513732910156, FileName: image_00817.jpg
+	Distance: 58.91097640991211, FileName: image_00980.jpg
+	Precision@4: 0.5
+
+Current Correct list: ['image_00760.jpg', 'image_00761.jpg', 'image_00762.jpg', 'image_00763.jpg']
+Matches are: 
+	Distance: 1.3222451210021973, FileName: image_00760.jpg
+	Distance: 29.490638732910156, FileName: image_00761.jpg
+	Distance: 37.928199768066406, FileName: image_00763.jpg
+	Distance: 40.135616302490234, FileName: image_00762.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00984.jpg', 'image_00985.jpg', 'image_00986.jpg', 'image_00987.jpg']
+Matches are: 
+	Distance: 1.5229374170303345, FileName: image_00984.jpg
+	Distance: 42.17469024658203, FileName: image_00985.jpg
+	Distance: 42.52344512939453, FileName: image_00987.jpg
+	Distance: 49.12271499633789, FileName: image_00986.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00648.jpg', 'image_00649.jpg', 'image_00650.jpg', 'image_00651.jpg']
+Matches are: 
+	Distance: 0.8694575428962708, FileName: image_00648.jpg
+	Distance: 21.77044105529785, FileName: image_00649.jpg
+	Distance: 28.03085708618164, FileName: image_00650.jpg
+	Distance: 31.473388671875, FileName: image_00651.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00680.jpg', 'image_00681.jpg', 'image_00682.jpg', 'image_00683.jpg']
+Matches are: 
+	Distance: 1.1671313047409058, FileName: image_00680.jpg
+	Distance: 34.953514099121094, FileName: image_00683.jpg
+	Distance: 35.55296325683594, FileName: image_00681.jpg
+	Distance: 36.123626708984375, FileName: image_00682.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00372.jpg', 'image_00373.jpg', 'image_00374.jpg', 'image_00375.jpg']
+Matches are: 
+	Distance: 1.6914963722229004, FileName: image_00372.jpg
+	Distance: 26.34648895263672, FileName: image_00373.jpg
+	Distance: 30.75038719177246, FileName: image_00374.jpg
+	Distance: 34.21990203857422, FileName: image_00375.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00612.jpg', 'image_00613.jpg', 'image_00614.jpg', 'image_00615.jpg']
+Matches are: 
+	Distance: 0.9476447701454163, FileName: image_00612.jpg
+	Distance: 12.357512474060059, FileName: image_00613.jpg
+	Distance: 20.225448608398438, FileName: image_00614.jpg
+	Distance: 22.615982055664062, FileName: image_00615.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00020.jpg', 'image_00021.jpg', 'image_00022.jpg', 'image_00023.jpg']
+Matches are: 
+	Distance: 1.2934234142303467, FileName: image_00020.jpg
+	Distance: 58.7148551940918, FileName: image_00021.jpg
+	Distance: 59.77081298828125, FileName: image_00023.jpg
+	Distance: 67.0210189819336, FileName: image_00022.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00088.jpg', 'image_00089.jpg', 'image_00090.jpg', 'image_00091.jpg']
+Matches are: 
+	Distance: 2.0591816902160645, FileName: image_00088.jpg
+	Distance: 33.91197967529297, FileName: image_00091.jpg
+	Distance: 38.82078552246094, FileName: image_00089.jpg
+	Distance: 46.74647521972656, FileName: image_00090.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00584.jpg', 'image_00585.jpg', 'image_00586.jpg', 'image_00587.jpg']
+Matches are: 
+	Distance: 0.9373061656951904, FileName: image_00584.jpg
+	Distance: 25.74800682067871, FileName: image_00586.jpg
+	Distance: 29.650360107421875, FileName: image_00587.jpg
+	Distance: 31.39532470703125, FileName: image_00585.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00912.jpg', 'image_00913.jpg', 'image_00914.jpg', 'image_00915.jpg']
+Matches are: 
+	Distance: 2.19673490524292, FileName: image_00912.jpg
+	Distance: 32.9869384765625, FileName: image_00913.jpg
+	Distance: 39.12388610839844, FileName: image_00914.jpg
+	Distance: 42.68568801879883, FileName: image_00915.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00152.jpg', 'image_00153.jpg', 'image_00154.jpg', 'image_00155.jpg']
+Matches are: 
+	Distance: 1.3948454856872559, FileName: image_00152.jpg
+	Distance: 45.65694046020508, FileName: image_00153.jpg
+	Distance: 52.50645446777344, FileName: image_00155.jpg
+	Distance: 53.014034271240234, FileName: image_00154.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00944.jpg', 'image_00945.jpg', 'image_00946.jpg', 'image_00947.jpg']
+Matches are: 
+	Distance: 1.8482264280319214, FileName: image_00944.jpg
+	Distance: 38.72197341918945, FileName: image_00945.jpg
+	Distance: 44.69057083129883, FileName: image_00946.jpg
+	Distance: 56.289451599121094, FileName: image_00947.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00432.jpg', 'image_00433.jpg', 'image_00434.jpg', 'image_00435.jpg']
+Matches are: 
+	Distance: 2.9924652576446533, FileName: image_00432.jpg
+	Distance: 24.141590118408203, FileName: image_00434.jpg
+	Distance: 26.990999221801758, FileName: image_00433.jpg
+	Distance: 34.7304573059082, FileName: image_00435.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00964.jpg', 'image_00965.jpg', 'image_00966.jpg', 'image_00967.jpg']
+Matches are: 
+	Distance: 2.3804028034210205, FileName: image_00964.jpg
+	Distance: 51.59897232055664, FileName: image_00966.jpg
+	Distance: 53.159706115722656, FileName: image_00965.jpg
+	Distance: 55.80592727661133, FileName: image_00967.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00536.jpg', 'image_00537.jpg', 'image_00538.jpg', 'image_00539.jpg']
+Matches are: 
+	Distance: 2.000549077987671, FileName: image_00536.jpg
+	Distance: 49.304290771484375, FileName: image_00538.jpg
+	Distance: 50.955509185791016, FileName: image_00537.jpg
+	Distance: 53.4727668762207, FileName: image_00182.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00244.jpg', 'image_00245.jpg', 'image_00246.jpg', 'image_00247.jpg']
+Matches are: 
+	Distance: 2.2331104278564453, FileName: image_00244.jpg
+	Distance: 48.961814880371094, FileName: image_00245.jpg
+	Distance: 50.54911804199219, FileName: image_00247.jpg
+	Distance: 51.779170989990234, FileName: image_00246.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00696.jpg', 'image_00697.jpg', 'image_00698.jpg', 'image_00699.jpg']
+Matches are: 
+	Distance: 0.8425429463386536, FileName: image_00696.jpg
+	Distance: 29.993772506713867, FileName: image_00697.jpg
+	Distance: 31.79271697998047, FileName: image_00699.jpg
+	Distance: 32.70668411254883, FileName: image_00698.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00224.jpg', 'image_00225.jpg', 'image_00226.jpg', 'image_00227.jpg']
+Matches are: 
+	Distance: 2.0563440322875977, FileName: image_00224.jpg
+	Distance: 31.504823684692383, FileName: image_00225.jpg
+	Distance: 38.53571701049805, FileName: image_00226.jpg
+	Distance: 43.95601272583008, FileName: image_00227.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00476.jpg', 'image_00477.jpg', 'image_00478.jpg', 'image_00479.jpg']
+Matches are: 
+	Distance: 1.860047459602356, FileName: image_00476.jpg
+	Distance: 31.02724838256836, FileName: image_00477.jpg
+	Distance: 48.084556579589844, FileName: image_00478.jpg
+	Distance: 51.2001838684082, FileName: image_00165.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00980.jpg', 'image_00981.jpg', 'image_00982.jpg', 'image_00983.jpg']
+Matches are: 
+	Distance: 0.9143723845481873, FileName: image_00980.jpg
+	Distance: 30.64213752746582, FileName: image_00982.jpg
+	Distance: 44.13359069824219, FileName: image_00981.jpg
+	Distance: 53.92655944824219, FileName: image_00124.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00948.jpg', 'image_00949.jpg', 'image_00950.jpg', 'image_00951.jpg']
+Matches are: 
+	Distance: 1.5405046939849854, FileName: image_00948.jpg
+	Distance: 41.125831604003906, FileName: image_00949.jpg
+	Distance: 43.395050048828125, FileName: image_00951.jpg
+	Distance: 53.19344711303711, FileName: image_00950.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00404.jpg', 'image_00405.jpg', 'image_00406.jpg', 'image_00407.jpg']
+Matches are: 
+	Distance: 1.4153910875320435, FileName: image_00404.jpg
+	Distance: 34.29376983642578, FileName: image_00405.jpg
+	Distance: 38.19376754760742, FileName: image_00407.jpg
+	Distance: 38.69861602783203, FileName: image_00406.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00840.jpg', 'image_00841.jpg', 'image_00842.jpg', 'image_00843.jpg']
+Matches are: 
+	Distance: 1.0971053838729858, FileName: image_00840.jpg
+	Distance: 20.42058563232422, FileName: image_00841.jpg
+	Distance: 25.10218620300293, FileName: image_00842.jpg
+	Distance: 46.35537338256836, FileName: image_00843.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00928.jpg', 'image_00929.jpg', 'image_00930.jpg', 'image_00931.jpg']
+Matches are: 
+	Distance: 1.1050901412963867, FileName: image_00928.jpg
+	Distance: 32.79152297973633, FileName: image_00931.jpg
+	Distance: 34.852657318115234, FileName: image_00929.jpg
+	Distance: 37.093994140625, FileName: image_00930.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00348.jpg', 'image_00349.jpg', 'image_00350.jpg', 'image_00351.jpg']
+Matches are: 
+	Distance: 2.696342945098877, FileName: image_00348.jpg
+	Distance: 48.26777648925781, FileName: image_00349.jpg
+	Distance: 49.52458190917969, FileName: image_00351.jpg
+	Distance: 51.69908142089844, FileName: image_00350.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00100.jpg', 'image_00101.jpg', 'image_00102.jpg', 'image_00103.jpg']
+Matches are: 
+	Distance: 1.4857577085494995, FileName: image_00100.jpg
+	Distance: 30.48300552368164, FileName: image_00103.jpg
+	Distance: 35.37791061401367, FileName: image_00101.jpg
+	Distance: 40.705745697021484, FileName: image_00102.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00488.jpg', 'image_00489.jpg', 'image_00490.jpg', 'image_00491.jpg']
+Matches are: 
+	Distance: 1.0771474838256836, FileName: image_00488.jpg
+	Distance: 53.147769927978516, FileName: image_00490.jpg
+	Distance: 53.95380401611328, FileName: image_00489.jpg
+	Distance: 57.167388916015625, FileName: image_00491.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00308.jpg', 'image_00309.jpg', 'image_00310.jpg', 'image_00311.jpg']
+Matches are: 
+	Distance: 1.7815771102905273, FileName: image_00308.jpg
+	Distance: 23.68635368347168, FileName: image_00311.jpg
+	Distance: 25.680931091308594, FileName: image_00310.jpg
+	Distance: 29.071102142333984, FileName: image_00309.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00544.jpg', 'image_00545.jpg', 'image_00546.jpg', 'image_00547.jpg']
+Matches are: 
+	Distance: 1.089048147201538, FileName: image_00544.jpg
+	Distance: 46.203834533691406, FileName: image_00545.jpg
+	Distance: 47.96312713623047, FileName: image_00546.jpg
+	Distance: 49.68617630004883, FileName: image_00933.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00028.jpg', 'image_00029.jpg', 'image_00030.jpg', 'image_00031.jpg']
+Matches are: 
+	Distance: 0.7752421498298645, FileName: image_00028.jpg
+	Distance: 25.78360366821289, FileName: image_00029.jpg
+	Distance: 40.77714157104492, FileName: image_00031.jpg
+	Distance: 47.7828483581543, FileName: image_00030.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00328.jpg', 'image_00329.jpg', 'image_00330.jpg', 'image_00331.jpg']
+Matches are: 
+	Distance: 2.3717305660247803, FileName: image_00328.jpg
+	Distance: 36.20255661010742, FileName: image_00330.jpg
+	Distance: 42.378299713134766, FileName: image_00329.jpg
+	Distance: 51.12577438354492, FileName: image_00331.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00916.jpg', 'image_00917.jpg', 'image_00918.jpg', 'image_00919.jpg']
+Matches are: 
+	Distance: 2.555241584777832, FileName: image_00916.jpg
+	Distance: 31.779361724853516, FileName: image_00917.jpg
+	Distance: 41.156429290771484, FileName: image_00918.jpg
+	Distance: 43.311988830566406, FileName: image_00919.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00012.jpg', 'image_00013.jpg', 'image_00014.jpg', 'image_00015.jpg']
+Matches are: 
+	Distance: 1.7954798936843872, FileName: image_00012.jpg
+	Distance: 42.02757263183594, FileName: image_00014.jpg
+	Distance: 53.993492126464844, FileName: image_00551.jpg
+	Distance: 54.797325134277344, FileName: image_00013.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00336.jpg', 'image_00337.jpg', 'image_00338.jpg', 'image_00339.jpg']
+Matches are: 
+	Distance: 2.2380306720733643, FileName: image_00336.jpg
+	Distance: 23.2210750579834, FileName: image_00338.jpg
+	Distance: 29.747587203979492, FileName: image_00337.jpg
+	Distance: 33.40293884277344, FileName: image_00339.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00764.jpg', 'image_00765.jpg', 'image_00766.jpg', 'image_00767.jpg']
+Matches are: 
+	Distance: 1.1942654848098755, FileName: image_00764.jpg
+	Distance: 53.20289611816406, FileName: image_00765.jpg
+	Distance: 56.97249221801758, FileName: image_00767.jpg
+	Distance: 60.51542282104492, FileName: image_00779.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00004.jpg', 'image_00005.jpg', 'image_00006.jpg', 'image_00007.jpg']
+Matches are: 
+	Distance: 0.9744982719421387, FileName: image_00004.jpg
+	Distance: 39.41453552246094, FileName: image_00005.jpg
+	Distance: 41.01993179321289, FileName: image_00007.jpg
+	Distance: 45.686363220214844, FileName: image_00006.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00200.jpg', 'image_00201.jpg', 'image_00202.jpg', 'image_00203.jpg']
+Matches are: 
+	Distance: 1.8008813858032227, FileName: image_00200.jpg
+	Distance: 28.700510025024414, FileName: image_00201.jpg
+	Distance: 39.1491584777832, FileName: image_00202.jpg
+	Distance: 45.13867950439453, FileName: image_00203.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00744.jpg', 'image_00745.jpg', 'image_00746.jpg', 'image_00747.jpg']
+Matches are: 
+	Distance: 1.8835675716400146, FileName: image_00744.jpg
+	Distance: 55.38767623901367, FileName: image_00747.jpg
+	Distance: 56.05904769897461, FileName: image_00745.jpg
+	Distance: 63.30867385864258, FileName: image_00746.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00816.jpg', 'image_00817.jpg', 'image_00818.jpg', 'image_00819.jpg']
+Matches are: 
+	Distance: 1.0361078977584839, FileName: image_00816.jpg
+	Distance: 47.732078552246094, FileName: image_00817.jpg
+	Distance: 60.869354248046875, FileName: image_00889.jpg
+	Distance: 60.94340133666992, FileName: image_00888.jpg
+	Precision@4: 0.5
+
+Current Correct list: ['image_00556.jpg', 'image_00557.jpg', 'image_00558.jpg', 'image_00559.jpg']
+Matches are: 
+	Distance: 1.1919746398925781, FileName: image_00556.jpg
+	Distance: 26.63496971130371, FileName: image_00558.jpg
+	Distance: 29.194658279418945, FileName: image_00557.jpg
+	Distance: 52.42153549194336, FileName: image_00559.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00692.jpg', 'image_00693.jpg', 'image_00694.jpg', 'image_00695.jpg']
+Matches are: 
+	Distance: 0.8026005625724792, FileName: image_00692.jpg
+	Distance: 46.53839874267578, FileName: image_00693.jpg
+	Distance: 47.35275650024414, FileName: image_00695.jpg
+	Distance: 55.2137336730957, FileName: image_00694.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00376.jpg', 'image_00377.jpg', 'image_00378.jpg', 'image_00379.jpg']
+Matches are: 
+	Distance: 1.3266611099243164, FileName: image_00376.jpg
+	Distance: 44.57329559326172, FileName: image_00378.jpg
+	Distance: 47.4668083190918, FileName: image_00377.jpg
+	Distance: 52.975101470947266, FileName: image_00379.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00060.jpg', 'image_00061.jpg', 'image_00062.jpg', 'image_00063.jpg']
+Matches are: 
+	Distance: 1.1584045886993408, FileName: image_00060.jpg
+	Distance: 19.243038177490234, FileName: image_00061.jpg
+	Distance: 20.932188034057617, FileName: image_00063.jpg
+	Distance: 21.456844329833984, FileName: image_00062.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00508.jpg', 'image_00509.jpg', 'image_00510.jpg', 'image_00511.jpg']
+Matches are: 
+	Distance: 1.201839804649353, FileName: image_00508.jpg
+	Distance: 41.09404754638672, FileName: image_00509.jpg
+	Distance: 43.394134521484375, FileName: image_00510.jpg
+	Distance: 49.72597885131836, FileName: image_00511.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00368.jpg', 'image_00369.jpg', 'image_00370.jpg', 'image_00371.jpg']
+Matches are: 
+	Distance: 1.5093684196472168, FileName: image_00368.jpg
+	Distance: 37.57485580444336, FileName: image_00369.jpg
+	Distance: 37.81378173828125, FileName: image_00371.jpg
+	Distance: 38.340492248535156, FileName: image_00370.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00460.jpg', 'image_00461.jpg', 'image_00462.jpg', 'image_00463.jpg']
+Matches are: 
+	Distance: 1.7669683694839478, FileName: image_00460.jpg
+	Distance: 31.007579803466797, FileName: image_00462.jpg
+	Distance: 32.86046600341797, FileName: image_00463.jpg
+	Distance: 33.10677719116211, FileName: image_00461.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00464.jpg', 'image_00465.jpg', 'image_00466.jpg', 'image_00467.jpg']
+Matches are: 
+	Distance: 1.5478689670562744, FileName: image_00464.jpg
+	Distance: 21.39765739440918, FileName: image_00467.jpg
+	Distance: 28.326641082763672, FileName: image_00466.jpg
+	Distance: 31.858898162841797, FileName: image_00465.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00312.jpg', 'image_00313.jpg', 'image_00314.jpg', 'image_00315.jpg']
+Matches are: 
+	Distance: 1.555323600769043, FileName: image_00312.jpg
+	Distance: 23.773902893066406, FileName: image_00315.jpg
+	Distance: 28.017263412475586, FileName: image_00313.jpg
+	Distance: 35.047607421875, FileName: image_00314.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00872.jpg', 'image_00873.jpg', 'image_00874.jpg', 'image_00875.jpg']
+Matches are: 
+	Distance: 1.3839049339294434, FileName: image_00872.jpg
+	Distance: 41.32058334350586, FileName: image_00875.jpg
+	Distance: 42.42457580566406, FileName: image_00873.jpg
+	Distance: 44.3058967590332, FileName: image_00874.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00284.jpg', 'image_00285.jpg', 'image_00286.jpg', 'image_00287.jpg']
+Matches are: 
+	Distance: 1.243918776512146, FileName: image_00284.jpg
+	Distance: 31.014463424682617, FileName: image_00285.jpg
+	Distance: 38.86468505859375, FileName: image_00286.jpg
+	Distance: 45.020233154296875, FileName: image_00287.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00644.jpg', 'image_00645.jpg', 'image_00646.jpg', 'image_00647.jpg']
+Matches are: 
+	Distance: 0.8067208528518677, FileName: image_00644.jpg
+	Distance: 39.13749313354492, FileName: image_00647.jpg
+	Distance: 45.94685745239258, FileName: image_00646.jpg
+	Distance: 51.829166412353516, FileName: image_00683.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00144.jpg', 'image_00145.jpg', 'image_00146.jpg', 'image_00147.jpg']
+Matches are: 
+	Distance: 0.8693017363548279, FileName: image_00144.jpg
+	Distance: 37.462825775146484, FileName: image_00145.jpg
+	Distance: 42.544002532958984, FileName: image_00147.jpg
+	Distance: 43.45767593383789, FileName: image_00146.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00036.jpg', 'image_00037.jpg', 'image_00038.jpg', 'image_00039.jpg']
+Matches are: 
+	Distance: 1.2224327325820923, FileName: image_00036.jpg
+	Distance: 31.766637802124023, FileName: image_00037.jpg
+	Distance: 33.358394622802734, FileName: image_00039.jpg
+	Distance: 39.261478424072266, FileName: image_00038.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00192.jpg', 'image_00193.jpg', 'image_00194.jpg', 'image_00195.jpg']
+Matches are: 
+	Distance: 1.6339970827102661, FileName: image_00192.jpg
+	Distance: 34.89884567260742, FileName: image_00193.jpg
+	Distance: 38.99561309814453, FileName: image_00194.jpg
+	Distance: 40.08583068847656, FileName: image_00195.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00512.jpg', 'image_00513.jpg', 'image_00514.jpg', 'image_00515.jpg']
+Matches are: 
+	Distance: 1.9045284986495972, FileName: image_00512.jpg
+	Distance: 40.139549255371094, FileName: image_00515.jpg
+	Distance: 46.076053619384766, FileName: image_00514.jpg
+	Distance: 49.465782165527344, FileName: image_00513.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00824.jpg', 'image_00825.jpg', 'image_00826.jpg', 'image_00827.jpg']
+Matches are: 
+	Distance: 1.229299783706665, FileName: image_00824.jpg
+	Distance: 35.81354904174805, FileName: image_00825.jpg
+	Distance: 40.564395904541016, FileName: image_00826.jpg
+	Distance: 46.37209701538086, FileName: image_00827.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00408.jpg', 'image_00409.jpg', 'image_00410.jpg', 'image_00411.jpg']
+Matches are: 
+	Distance: 1.484348177909851, FileName: image_00408.jpg
+	Distance: 35.9084358215332, FileName: image_00409.jpg
+	Distance: 37.0365104675293, FileName: image_00410.jpg
+	Distance: 44.26963806152344, FileName: image_00411.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00172.jpg', 'image_00173.jpg', 'image_00174.jpg', 'image_00175.jpg']
+Matches are: 
+	Distance: 1.9727203845977783, FileName: image_00172.jpg
+	Distance: 34.82516098022461, FileName: image_00173.jpg
+	Distance: 46.220829010009766, FileName: image_00174.jpg
+	Distance: 55.695716857910156, FileName: image_00203.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00048.jpg', 'image_00049.jpg', 'image_00050.jpg', 'image_00051.jpg']
+Matches are: 
+	Distance: 2.0564045906066895, FileName: image_00048.jpg
+	Distance: 34.587554931640625, FileName: image_00049.jpg
+	Distance: 34.957923889160156, FileName: image_00051.jpg
+	Distance: 40.02717590332031, FileName: image_00050.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00276.jpg', 'image_00277.jpg', 'image_00278.jpg', 'image_00279.jpg']
+Matches are: 
+	Distance: 1.5526411533355713, FileName: image_00276.jpg
+	Distance: 36.76683044433594, FileName: image_00277.jpg
+	Distance: 37.13668441772461, FileName: image_00278.jpg
+	Distance: 41.452457427978516, FileName: image_00279.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00364.jpg', 'image_00365.jpg', 'image_00366.jpg', 'image_00367.jpg']
+Matches are: 
+	Distance: 1.4517827033996582, FileName: image_00364.jpg
+	Distance: 15.559135437011719, FileName: image_00367.jpg
+	Distance: 26.902042388916016, FileName: image_00366.jpg
+	Distance: 40.190555572509766, FileName: image_00365.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00520.jpg', 'image_00521.jpg', 'image_00522.jpg', 'image_00523.jpg']
+Matches are: 
+	Distance: 2.0176353454589844, FileName: image_00520.jpg
+	Distance: 32.52507400512695, FileName: image_00523.jpg
+	Distance: 33.77207565307617, FileName: image_00521.jpg
+	Distance: 41.887027740478516, FileName: image_00522.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00624.jpg', 'image_00625.jpg', 'image_00626.jpg', 'image_00627.jpg']
+Matches are: 
+	Distance: 1.0284312963485718, FileName: image_00624.jpg
+	Distance: 18.923368453979492, FileName: image_00625.jpg
+	Distance: 19.735273361206055, FileName: image_00626.jpg
+	Distance: 33.10041046142578, FileName: image_00627.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00812.jpg', 'image_00813.jpg', 'image_00814.jpg', 'image_00815.jpg']
+Matches are: 
+	Distance: 1.3317418098449707, FileName: image_00812.jpg
+	Distance: 34.677364349365234, FileName: image_00813.jpg
+	Distance: 39.94786834716797, FileName: image_00814.jpg
+	Distance: 55.7977180480957, FileName: image_00815.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00344.jpg', 'image_00345.jpg', 'image_00346.jpg', 'image_00347.jpg']
+Matches are: 
+	Distance: 2.323971748352051, FileName: image_00344.jpg
+	Distance: 32.21006774902344, FileName: image_00156.jpg
+	Distance: 40.19166946411133, FileName: image_00157.jpg
+	Distance: 41.351173400878906, FileName: image_00989.jpg
+	Precision@4: 0.25
+
+Current Correct list: ['image_00072.jpg', 'image_00073.jpg', 'image_00074.jpg', 'image_00075.jpg']
+Matches are: 
+	Distance: 1.9369624853134155, FileName: image_00072.jpg
+	Distance: 25.879302978515625, FileName: image_00074.jpg
+	Distance: 32.2362174987793, FileName: image_00073.jpg
+	Distance: 36.659854888916016, FileName: image_00075.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00000.jpg', 'image_00001.jpg', 'image_00002.jpg', 'image_00003.jpg']
+Matches are: 
+	Distance: 1.1308680772781372, FileName: image_00000.jpg
+	Distance: 34.495018005371094, FileName: image_00003.jpg
+	Distance: 49.14073944091797, FileName: image_00002.jpg
+	Distance: 50.91032409667969, FileName: image_00001.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00940.jpg', 'image_00941.jpg', 'image_00942.jpg', 'image_00943.jpg']
+Matches are: 
+	Distance: 1.8435356616973877, FileName: image_00940.jpg
+	Distance: 28.947202682495117, FileName: image_00941.jpg
+	Distance: 44.184940338134766, FileName: image_00942.jpg
+	Distance: 45.59702682495117, FileName: image_00943.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00768.jpg', 'image_00769.jpg', 'image_00770.jpg', 'image_00771.jpg']
+Matches are: 
+	Distance: 1.5986155271530151, FileName: image_00768.jpg
+	Distance: 37.1954345703125, FileName: image_00769.jpg
+	Distance: 42.713523864746094, FileName: image_00770.jpg
+	Distance: 48.12533187866211, FileName: image_00771.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00664.jpg', 'image_00665.jpg', 'image_00666.jpg', 'image_00667.jpg']
+Matches are: 
+	Distance: 1.9081535339355469, FileName: image_00664.jpg
+	Distance: 30.111249923706055, FileName: image_00666.jpg
+	Distance: 31.088909149169922, FileName: image_00665.jpg
+	Distance: 35.04069519042969, FileName: image_00667.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00748.jpg', 'image_00749.jpg', 'image_00750.jpg', 'image_00751.jpg']
+Matches are: 
+	Distance: 1.9728713035583496, FileName: image_00748.jpg
+	Distance: 22.5830020904541, FileName: image_00751.jpg
+	Distance: 37.18223571777344, FileName: image_00750.jpg
+	Distance: 39.375999450683594, FileName: image_00749.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00972.jpg', 'image_00973.jpg', 'image_00974.jpg', 'image_00975.jpg']
+Matches are: 
+	Distance: 2.8762857913970947, FileName: image_00972.jpg
+	Distance: 38.47687530517578, FileName: image_00973.jpg
+	Distance: 41.663326263427734, FileName: image_00975.jpg
+	Distance: 46.375267028808594, FileName: image_00974.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00524.jpg', 'image_00525.jpg', 'image_00526.jpg', 'image_00527.jpg']
+Matches are: 
+	Distance: 1.4262633323669434, FileName: image_00524.jpg
+	Distance: 33.554840087890625, FileName: image_00525.jpg
+	Distance: 41.409671783447266, FileName: image_00527.jpg
+	Distance: 43.536598205566406, FileName: image_00526.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00740.jpg', 'image_00741.jpg', 'image_00742.jpg', 'image_00743.jpg']
+Matches are: 
+	Distance: 1.8754926919937134, FileName: image_00740.jpg
+	Distance: 52.3032112121582, FileName: image_00741.jpg
+	Distance: 58.94493865966797, FileName: image_00742.jpg
+	Distance: 67.18146514892578, FileName: image_00743.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00280.jpg', 'image_00281.jpg', 'image_00282.jpg', 'image_00283.jpg']
+Matches are: 
+	Distance: 1.4792146682739258, FileName: image_00280.jpg
+	Distance: 57.99707794189453, FileName: image_00311.jpg
+	Distance: 58.32455062866211, FileName: image_00309.jpg
+	Distance: 59.330257415771484, FileName: image_00116.jpg
+	Precision@4: 0.25
+
+Current Correct list: ['image_00836.jpg', 'image_00837.jpg', 'image_00838.jpg', 'image_00839.jpg']
+Matches are: 
+	Distance: 1.5955417156219482, FileName: image_00836.jpg
+	Distance: 37.854488372802734, FileName: image_00837.jpg
+	Distance: 48.249267578125, FileName: image_00838.jpg
+	Distance: 55.48283004760742, FileName: image_00839.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00316.jpg', 'image_00317.jpg', 'image_00318.jpg', 'image_00319.jpg']
+Matches are: 
+	Distance: 1.4949861764907837, FileName: image_00316.jpg
+	Distance: 32.427391052246094, FileName: image_00317.jpg
+	Distance: 41.4010009765625, FileName: image_00318.jpg
+	Distance: 41.40727996826172, FileName: image_00319.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00668.jpg', 'image_00669.jpg', 'image_00670.jpg', 'image_00671.jpg']
+Matches are: 
+	Distance: 1.385823369026184, FileName: image_00668.jpg
+	Distance: 22.90154266357422, FileName: image_00669.jpg
+	Distance: 30.142852783203125, FileName: image_00671.jpg
+	Distance: 40.65637969970703, FileName: image_00670.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00888.jpg', 'image_00889.jpg', 'image_00890.jpg', 'image_00891.jpg']
+Matches are: 
+	Distance: 1.0365737676620483, FileName: image_00888.jpg
+	Distance: 42.707794189453125, FileName: image_00891.jpg
+	Distance: 48.13217544555664, FileName: image_00889.jpg
+	Distance: 49.269195556640625, FileName: image_00902.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00136.jpg', 'image_00137.jpg', 'image_00138.jpg', 'image_00139.jpg']
+Matches are: 
+	Distance: 1.2034586668014526, FileName: image_00136.jpg
+	Distance: 31.601106643676758, FileName: image_00138.jpg
+	Distance: 40.586280822753906, FileName: image_00145.jpg
+	Distance: 42.288902282714844, FileName: image_00147.jpg
+	Precision@4: 0.5
+
+Current Correct list: ['image_00788.jpg', 'image_00789.jpg', 'image_00790.jpg', 'image_00791.jpg']
+Matches are: 
+	Distance: 1.3280211687088013, FileName: image_00788.jpg
+	Distance: 42.23197555541992, FileName: image_00790.jpg
+	Distance: 48.78938293457031, FileName: image_00791.jpg
+	Distance: 55.72138977050781, FileName: image_00789.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00652.jpg', 'image_00653.jpg', 'image_00654.jpg', 'image_00655.jpg']
+Matches are: 
+	Distance: 0.989154577255249, FileName: image_00652.jpg
+	Distance: 39.33151626586914, FileName: image_00653.jpg
+	Distance: 41.39795684814453, FileName: image_00655.jpg
+	Distance: 45.426700592041016, FileName: image_00654.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00204.jpg', 'image_00205.jpg', 'image_00206.jpg', 'image_00207.jpg']
+Matches are: 
+	Distance: 1.5437713861465454, FileName: image_00204.jpg
+	Distance: 39.00662612915039, FileName: image_00207.jpg
+	Distance: 44.174400329589844, FileName: image_00206.jpg
+	Distance: 44.83559036254883, FileName: image_00205.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00444.jpg', 'image_00445.jpg', 'image_00446.jpg', 'image_00447.jpg']
+Matches are: 
+	Distance: 1.6672489643096924, FileName: image_00444.jpg
+	Distance: 31.373065948486328, FileName: image_00446.jpg
+	Distance: 32.29319763183594, FileName: image_00447.jpg
+	Distance: 39.9592170715332, FileName: image_00445.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00104.jpg', 'image_00105.jpg', 'image_00106.jpg', 'image_00107.jpg']
+Matches are: 
+	Distance: 1.21766197681427, FileName: image_00104.jpg
+	Distance: 52.88270568847656, FileName: image_00107.jpg
+	Distance: 54.83772659301758, FileName: image_00106.jpg
+	Distance: 58.32645034790039, FileName: image_00105.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00516.jpg', 'image_00517.jpg', 'image_00518.jpg', 'image_00519.jpg']
+Matches are: 
+	Distance: 1.1470364332199097, FileName: image_00516.jpg
+	Distance: 34.32640075683594, FileName: image_00517.jpg
+	Distance: 38.563270568847656, FileName: image_00519.jpg
+	Distance: 42.28099060058594, FileName: image_00518.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00640.jpg', 'image_00641.jpg', 'image_00642.jpg', 'image_00643.jpg']
+Matches are: 
+	Distance: 1.482324242591858, FileName: image_00640.jpg
+	Distance: 34.20380783081055, FileName: image_00641.jpg
+	Distance: 40.8233642578125, FileName: image_00642.jpg
+	Distance: 43.455726623535156, FileName: image_00643.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00428.jpg', 'image_00429.jpg', 'image_00430.jpg', 'image_00431.jpg']
+Matches are: 
+	Distance: 1.0985685586929321, FileName: image_00428.jpg
+	Distance: 31.498920440673828, FileName: image_00430.jpg
+	Distance: 32.08811569213867, FileName: image_00429.jpg
+	Distance: 42.4588737487793, FileName: image_00431.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00936.jpg', 'image_00937.jpg', 'image_00938.jpg', 'image_00939.jpg']
+Matches are: 
+	Distance: 1.20868718624115, FileName: image_00936.jpg
+	Distance: 44.51665115356445, FileName: image_00938.jpg
+	Distance: 45.252403259277344, FileName: image_00937.jpg
+	Distance: 51.36438751220703, FileName: image_00939.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00796.jpg', 'image_00797.jpg', 'image_00798.jpg', 'image_00799.jpg']
+Matches are: 
+	Distance: 1.0599591732025146, FileName: image_00796.jpg
+	Distance: 41.20977020263672, FileName: image_00797.jpg
+	Distance: 46.35961151123047, FileName: image_00798.jpg
+	Distance: 51.65876388549805, FileName: image_00799.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00400.jpg', 'image_00401.jpg', 'image_00402.jpg', 'image_00403.jpg']
+Matches are: 
+	Distance: 1.0602055788040161, FileName: image_00400.jpg
+	Distance: 34.00444030761719, FileName: image_00401.jpg
+	Distance: 43.370880126953125, FileName: image_00402.jpg
+	Distance: 48.5069465637207, FileName: image_00403.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00496.jpg', 'image_00497.jpg', 'image_00498.jpg', 'image_00499.jpg']
+Matches are: 
+	Distance: 2.052488088607788, FileName: image_00496.jpg
+	Distance: 46.47568130493164, FileName: image_00499.jpg
+	Distance: 47.764137268066406, FileName: image_00497.jpg
+	Distance: 54.090919494628906, FileName: image_00498.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00600.jpg', 'image_00601.jpg', 'image_00602.jpg', 'image_00603.jpg']
+Matches are: 
+	Distance: 1.1009531021118164, FileName: image_00600.jpg
+	Distance: 20.44183921813965, FileName: image_00602.jpg
+	Distance: 20.95037841796875, FileName: image_00601.jpg
+	Distance: 23.6721134185791, FileName: image_00603.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00180.jpg', 'image_00181.jpg', 'image_00182.jpg', 'image_00183.jpg']
+Matches are: 
+	Distance: 1.6524959802627563, FileName: image_00180.jpg
+	Distance: 29.5709171295166, FileName: image_00181.jpg
+	Distance: 47.23735427856445, FileName: image_00182.jpg
+	Distance: 48.30183029174805, FileName: image_00299.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00096.jpg', 'image_00097.jpg', 'image_00098.jpg', 'image_00099.jpg']
+Matches are: 
+	Distance: 1.6710466146469116, FileName: image_00096.jpg
+	Distance: 27.30348014831543, FileName: image_00097.jpg
+	Distance: 50.45567321777344, FileName: image_00098.jpg
+	Distance: 50.90264892578125, FileName: image_00099.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00976.jpg', 'image_00977.jpg', 'image_00978.jpg', 'image_00979.jpg']
+Matches are: 
+	Distance: 1.2541873455047607, FileName: image_00976.jpg
+	Distance: 44.41606903076172, FileName: image_00977.jpg
+	Distance: 44.95183181762695, FileName: image_00979.jpg
+	Distance: 47.35289001464844, FileName: image_00978.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00712.jpg', 'image_00713.jpg', 'image_00714.jpg', 'image_00715.jpg']
+Matches are: 
+	Distance: 1.7837284803390503, FileName: image_00712.jpg
+	Distance: 39.26656723022461, FileName: image_00713.jpg
+	Distance: 49.7712287902832, FileName: image_00714.jpg
+	Distance: 54.496116638183594, FileName: image_00715.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00708.jpg', 'image_00709.jpg', 'image_00710.jpg', 'image_00711.jpg']
+Matches are: 
+	Distance: 1.1586250066757202, FileName: image_00708.jpg
+	Distance: 37.12474060058594, FileName: image_00711.jpg
+	Distance: 43.39171600341797, FileName: image_00710.jpg
+	Distance: 52.41126251220703, FileName: image_00709.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00892.jpg', 'image_00893.jpg', 'image_00894.jpg', 'image_00895.jpg']
+Matches are: 
+	Distance: 1.3156681060791016, FileName: image_00892.jpg
+	Distance: 68.71021270751953, FileName: image_00893.jpg
+	Distance: 83.22052001953125, FileName: image_00895.jpg
+	Distance: 86.60689544677734, FileName: image_00894.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00480.jpg', 'image_00481.jpg', 'image_00482.jpg', 'image_00483.jpg']
+Matches are: 
+	Distance: 1.4155352115631104, FileName: image_00480.jpg
+	Distance: 31.077838897705078, FileName: image_00483.jpg
+	Distance: 33.74443054199219, FileName: image_00481.jpg
+	Distance: 43.675804138183594, FileName: image_00391.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00752.jpg', 'image_00753.jpg', 'image_00754.jpg', 'image_00755.jpg']
+Matches are: 
+	Distance: 1.1180778741836548, FileName: image_00752.jpg
+	Distance: 32.65535354614258, FileName: image_00755.jpg
+	Distance: 35.23624038696289, FileName: image_00753.jpg
+	Distance: 39.494075775146484, FileName: image_00754.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00572.jpg', 'image_00573.jpg', 'image_00574.jpg', 'image_00575.jpg']
+Matches are: 
+	Distance: 1.4886744022369385, FileName: image_00572.jpg
+	Distance: 25.658737182617188, FileName: image_00573.jpg
+	Distance: 36.231101989746094, FileName: image_00574.jpg
+	Distance: 46.65601348876953, FileName: image_00575.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00636.jpg', 'image_00637.jpg', 'image_00638.jpg', 'image_00639.jpg']
+Matches are: 
+	Distance: 0.988576352596283, FileName: image_00636.jpg
+	Distance: 14.298179626464844, FileName: image_00637.jpg
+	Distance: 18.13014793395996, FileName: image_00638.jpg
+	Distance: 24.164325714111328, FileName: image_00639.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00628.jpg', 'image_00629.jpg', 'image_00630.jpg', 'image_00631.jpg']
+Matches are: 
+	Distance: 1.2976528406143188, FileName: image_00628.jpg
+	Distance: 32.97795867919922, FileName: image_00629.jpg
+	Distance: 34.359474182128906, FileName: image_00630.jpg
+	Distance: 37.15999984741211, FileName: image_00631.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00248.jpg', 'image_00249.jpg', 'image_00250.jpg', 'image_00251.jpg']
+Matches are: 
+	Distance: 2.169344902038574, FileName: image_00248.jpg
+	Distance: 35.522369384765625, FileName: image_00250.jpg
+	Distance: 38.85205841064453, FileName: image_00251.jpg
+	Distance: 45.75693130493164, FileName: image_00249.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00620.jpg', 'image_00621.jpg', 'image_00622.jpg', 'image_00623.jpg']
+Matches are: 
+	Distance: 1.0187727212905884, FileName: image_00620.jpg
+	Distance: 24.012025833129883, FileName: image_00621.jpg
+	Distance: 32.07328414916992, FileName: image_00623.jpg
+	Distance: 50.3040885925293, FileName: image_00622.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00756.jpg', 'image_00757.jpg', 'image_00758.jpg', 'image_00759.jpg']
+Matches are: 
+	Distance: 1.3435273170471191, FileName: image_00756.jpg
+	Distance: 39.408241271972656, FileName: image_00758.jpg
+	Distance: 40.933658599853516, FileName: image_00757.jpg
+	Distance: 41.658199310302734, FileName: image_00759.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00044.jpg', 'image_00045.jpg', 'image_00046.jpg', 'image_00047.jpg']
+Matches are: 
+	Distance: 1.4229605197906494, FileName: image_00044.jpg
+	Distance: 34.50978088378906, FileName: image_00046.jpg
+	Distance: 37.71565628051758, FileName: image_00047.jpg
+	Distance: 41.09457778930664, FileName: image_00045.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00884.jpg', 'image_00885.jpg', 'image_00886.jpg', 'image_00887.jpg']
+Matches are: 
+	Distance: 1.1897023916244507, FileName: image_00884.jpg
+	Distance: 50.768768310546875, FileName: image_00887.jpg
+	Distance: 55.500640869140625, FileName: image_00886.jpg
+	Distance: 56.94876480102539, FileName: image_00885.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00904.jpg', 'image_00905.jpg', 'image_00906.jpg', 'image_00907.jpg']
+Matches are: 
+	Distance: 1.6988290548324585, FileName: image_00904.jpg
+	Distance: 33.05363082885742, FileName: image_00906.jpg
+	Distance: 36.317665100097656, FileName: image_00907.jpg
+	Distance: 42.68705749511719, FileName: image_00905.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00568.jpg', 'image_00569.jpg', 'image_00570.jpg', 'image_00571.jpg']
+Matches are: 
+	Distance: 1.2515382766723633, FileName: image_00568.jpg
+	Distance: 51.015289306640625, FileName: image_00570.jpg
+	Distance: 53.12118911743164, FileName: image_00569.jpg
+	Distance: 55.90366744995117, FileName: image_00571.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00324.jpg', 'image_00325.jpg', 'image_00326.jpg', 'image_00327.jpg']
+Matches are: 
+	Distance: 1.514327883720398, FileName: image_00324.jpg
+	Distance: 36.30125045776367, FileName: image_00326.jpg
+	Distance: 36.470863342285156, FileName: image_00325.jpg
+	Distance: 42.89006042480469, FileName: image_00327.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00108.jpg', 'image_00109.jpg', 'image_00110.jpg', 'image_00111.jpg']
+Matches are: 
+	Distance: 1.9480429887771606, FileName: image_00108.jpg
+	Distance: 27.286787033081055, FileName: image_00111.jpg
+	Distance: 33.39360046386719, FileName: image_00109.jpg
+	Distance: 36.2591438293457, FileName: image_00110.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00880.jpg', 'image_00881.jpg', 'image_00882.jpg', 'image_00883.jpg']
+Matches are: 
+	Distance: 1.3498237133026123, FileName: image_00880.jpg
+	Distance: 21.10916519165039, FileName: image_00881.jpg
+	Distance: 21.9575138092041, FileName: image_00882.jpg
+	Distance: 27.24258041381836, FileName: image_00883.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00380.jpg', 'image_00381.jpg', 'image_00382.jpg', 'image_00383.jpg']
+Matches are: 
+	Distance: 1.410896897315979, FileName: image_00380.jpg
+	Distance: 53.984561920166016, FileName: image_00381.jpg
+	Distance: 56.65055465698242, FileName: image_00383.jpg
+	Distance: 59.23698425292969, FileName: image_00382.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00704.jpg', 'image_00705.jpg', 'image_00706.jpg', 'image_00707.jpg']
+Matches are: 
+	Distance: 1.4363867044448853, FileName: image_00704.jpg
+	Distance: 31.59981918334961, FileName: image_00705.jpg
+	Distance: 39.28340148925781, FileName: image_00707.jpg
+	Distance: 46.29947280883789, FileName: image_00706.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00024.jpg', 'image_00025.jpg', 'image_00026.jpg', 'image_00027.jpg']
+Matches are: 
+	Distance: 0.8937426209449768, FileName: image_00024.jpg
+	Distance: 27.32564926147461, FileName: image_00025.jpg
+	Distance: 37.04804229736328, FileName: image_00026.jpg
+	Distance: 45.57198715209961, FileName: image_00027.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00196.jpg', 'image_00197.jpg', 'image_00198.jpg', 'image_00199.jpg']
+Matches are: 
+	Distance: 1.3803669214248657, FileName: image_00196.jpg
+	Distance: 36.98903274536133, FileName: image_00198.jpg
+	Distance: 43.92047119140625, FileName: image_00994.jpg
+	Distance: 44.6529426574707, FileName: image_00199.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00868.jpg', 'image_00869.jpg', 'image_00870.jpg', 'image_00871.jpg']
+Matches are: 
+	Distance: 1.0898693799972534, FileName: image_00868.jpg
+	Distance: 77.70716094970703, FileName: image_00848.jpg
+	Distance: 81.51123809814453, FileName: image_00830.jpg
+	Distance: 83.4091796875, FileName: image_00831.jpg
+	Precision@4: 0.25
+
+Current Correct list: ['image_00988.jpg', 'image_00989.jpg', 'image_00990.jpg', 'image_00991.jpg']
+Matches are: 
+	Distance: 2.2046854496002197, FileName: image_00988.jpg
+	Distance: 29.7500057220459, FileName: image_00989.jpg
+	Distance: 34.238250732421875, FileName: image_00990.jpg
+	Distance: 34.674476623535156, FileName: image_00991.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00288.jpg', 'image_00289.jpg', 'image_00290.jpg', 'image_00291.jpg']
+Matches are: 
+	Distance: 1.3912971019744873, FileName: image_00288.jpg
+	Distance: 37.204490661621094, FileName: image_00290.jpg
+	Distance: 38.49775314331055, FileName: image_00289.jpg
+	Distance: 41.15763473510742, FileName: image_00291.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00720.jpg', 'image_00721.jpg', 'image_00722.jpg', 'image_00723.jpg']
+Matches are: 
+	Distance: 1.2468061447143555, FileName: image_00720.jpg
+	Distance: 38.7487907409668, FileName: image_00721.jpg
+	Distance: 40.26280212402344, FileName: image_00723.jpg
+	Distance: 51.039825439453125, FileName: image_00722.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00124.jpg', 'image_00125.jpg', 'image_00126.jpg', 'image_00127.jpg']
+Matches are: 
+	Distance: 1.1840144395828247, FileName: image_00124.jpg
+	Distance: 30.52570915222168, FileName: image_00126.jpg
+	Distance: 33.7225456237793, FileName: image_00127.jpg
+	Distance: 34.33461380004883, FileName: image_00125.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00616.jpg', 'image_00617.jpg', 'image_00618.jpg', 'image_00619.jpg']
+Matches are: 
+	Distance: 1.274368166923523, FileName: image_00616.jpg
+	Distance: 17.61931800842285, FileName: image_00617.jpg
+	Distance: 19.85865020751953, FileName: image_00618.jpg
+	Distance: 22.81382179260254, FileName: image_00619.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00268.jpg', 'image_00269.jpg', 'image_00270.jpg', 'image_00271.jpg']
+Matches are: 
+	Distance: 2.2238423824310303, FileName: image_00268.jpg
+	Distance: 40.91593551635742, FileName: image_00270.jpg
+	Distance: 45.395233154296875, FileName: image_00271.jpg
+	Distance: 51.88905334472656, FileName: image_00269.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00148.jpg', 'image_00149.jpg', 'image_00150.jpg', 'image_00151.jpg']
+Matches are: 
+	Distance: 1.517830491065979, FileName: image_00148.jpg
+	Distance: 31.398624420166016, FileName: image_00150.jpg
+	Distance: 35.14885330200195, FileName: image_00149.jpg
+	Distance: 53.25731658935547, FileName: image_00014.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00448.jpg', 'image_00449.jpg', 'image_00450.jpg', 'image_00451.jpg']
+Matches are: 
+	Distance: 1.37596595287323, FileName: image_00448.jpg
+	Distance: 55.047691345214844, FileName: image_00449.jpg
+	Distance: 56.094425201416016, FileName: image_00451.jpg
+	Distance: 62.688114166259766, FileName: image_00450.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00580.jpg', 'image_00581.jpg', 'image_00582.jpg', 'image_00583.jpg']
+Matches are: 
+	Distance: 1.062169075012207, FileName: image_00580.jpg
+	Distance: 31.70200538635254, FileName: image_00581.jpg
+	Distance: 35.743499755859375, FileName: image_00582.jpg
+	Distance: 43.333927154541016, FileName: image_00583.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00056.jpg', 'image_00057.jpg', 'image_00058.jpg', 'image_00059.jpg']
+Matches are: 
+	Distance: 1.4612787961959839, FileName: image_00056.jpg
+	Distance: 26.141298294067383, FileName: image_00057.jpg
+	Distance: 29.379331588745117, FileName: image_00058.jpg
+	Distance: 37.559513092041016, FileName: image_00059.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00952.jpg', 'image_00953.jpg', 'image_00954.jpg', 'image_00955.jpg']
+Matches are: 
+	Distance: 1.7821409702301025, FileName: image_00952.jpg
+	Distance: 40.28117370605469, FileName: image_00954.jpg
+	Distance: 50.00533676147461, FileName: image_00955.jpg
+	Distance: 50.99250411987305, FileName: image_00953.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00080.jpg', 'image_00081.jpg', 'image_00082.jpg', 'image_00083.jpg']
+Matches are: 
+	Distance: 2.077845335006714, FileName: image_00080.jpg
+	Distance: 38.6173210144043, FileName: image_00081.jpg
+	Distance: 49.93810272216797, FileName: image_00083.jpg
+	Distance: 54.62173843383789, FileName: image_00310.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00252.jpg', 'image_00253.jpg', 'image_00254.jpg', 'image_00255.jpg']
+Matches are: 
+	Distance: 1.5075809955596924, FileName: image_00252.jpg
+	Distance: 37.50990295410156, FileName: image_00253.jpg
+	Distance: 37.785457611083984, FileName: image_00255.jpg
+	Distance: 41.21791076660156, FileName: image_00254.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00732.jpg', 'image_00733.jpg', 'image_00734.jpg', 'image_00735.jpg']
+Matches are: 
+	Distance: 1.7024692296981812, FileName: image_00732.jpg
+	Distance: 46.51531982421875, FileName: image_00734.jpg
+	Distance: 46.539344787597656, FileName: image_00733.jpg
+	Distance: 62.500885009765625, FileName: image_00735.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00500.jpg', 'image_00501.jpg', 'image_00502.jpg', 'image_00503.jpg']
+Matches are: 
+	Distance: 1.6550418138504028, FileName: image_00500.jpg
+	Distance: 41.18110656738281, FileName: image_00501.jpg
+	Distance: 44.87803268432617, FileName: image_00502.jpg
+	Distance: 57.113990783691406, FileName: image_00727.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00304.jpg', 'image_00305.jpg', 'image_00306.jpg', 'image_00307.jpg']
+Matches are: 
+	Distance: 2.738234281539917, FileName: image_00304.jpg
+	Distance: 30.767539978027344, FileName: image_00306.jpg
+	Distance: 31.852174758911133, FileName: image_00307.jpg
+	Distance: 38.740997314453125, FileName: image_00305.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00140.jpg', 'image_00141.jpg', 'image_00142.jpg', 'image_00143.jpg']
+Matches are: 
+	Distance: 0.5456827282905579, FileName: image_00140.jpg
+	Distance: 28.78744125366211, FileName: image_00143.jpg
+	Distance: 29.902177810668945, FileName: image_00141.jpg
+	Distance: 33.5880241394043, FileName: image_00142.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00120.jpg', 'image_00121.jpg', 'image_00122.jpg', 'image_00123.jpg']
+Matches are: 
+	Distance: 0.8216246962547302, FileName: image_00120.jpg
+	Distance: 50.15364456176758, FileName: image_00122.jpg
+	Distance: 52.26602554321289, FileName: image_00121.jpg
+	Distance: 53.52714157104492, FileName: image_00123.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00132.jpg', 'image_00133.jpg', 'image_00134.jpg', 'image_00135.jpg']
+Matches are: 
+	Distance: 1.4660985469818115, FileName: image_00132.jpg
+	Distance: 43.21843338012695, FileName: image_00133.jpg
+	Distance: 51.59688186645508, FileName: image_00134.jpg
+	Distance: 54.4130973815918, FileName: image_00135.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00832.jpg', 'image_00833.jpg', 'image_00834.jpg', 'image_00835.jpg']
+Matches are: 
+	Distance: 1.227919578552246, FileName: image_00832.jpg
+	Distance: 28.484455108642578, FileName: image_00833.jpg
+	Distance: 37.6912841796875, FileName: image_00834.jpg
+	Distance: 47.04848098754883, FileName: image_00835.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00724.jpg', 'image_00725.jpg', 'image_00726.jpg', 'image_00727.jpg']
+Matches are: 
+	Distance: 0.9575505256652832, FileName: image_00724.jpg
+	Distance: 55.66974639892578, FileName: image_00726.jpg
+	Distance: 57.7861213684082, FileName: image_00725.jpg
+	Distance: 60.97709655761719, FileName: image_00727.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00560.jpg', 'image_00561.jpg', 'image_00562.jpg', 'image_00563.jpg']
+Matches are: 
+	Distance: 0.8745107650756836, FileName: image_00560.jpg
+	Distance: 26.73866844177246, FileName: image_00561.jpg
+	Distance: 29.550771713256836, FileName: image_00562.jpg
+	Distance: 38.86402893066406, FileName: image_00563.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00676.jpg', 'image_00677.jpg', 'image_00678.jpg', 'image_00679.jpg']
+Matches are: 
+	Distance: 1.6059497594833374, FileName: image_00676.jpg
+	Distance: 28.862577438354492, FileName: image_00677.jpg
+	Distance: 32.05257034301758, FileName: image_00679.jpg
+	Distance: 35.83597183227539, FileName: image_00678.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00700.jpg', 'image_00701.jpg', 'image_00702.jpg', 'image_00703.jpg']
+Matches are: 
+	Distance: 0.7667832374572754, FileName: image_00700.jpg
+	Distance: 10.189187049865723, FileName: image_00701.jpg
+	Distance: 13.936301231384277, FileName: image_00702.jpg
+	Distance: 19.164348602294922, FileName: image_00703.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00716.jpg', 'image_00717.jpg', 'image_00718.jpg', 'image_00719.jpg']
+Matches are: 
+	Distance: 1.620406150817871, FileName: image_00716.jpg
+	Distance: 47.547245025634766, FileName: image_00719.jpg
+	Distance: 48.69051742553711, FileName: image_00718.jpg
+	Distance: 53.776676177978516, FileName: image_00717.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00864.jpg', 'image_00865.jpg', 'image_00866.jpg', 'image_00867.jpg']
+Matches are: 
+	Distance: 1.469961404800415, FileName: image_00864.jpg
+	Distance: 51.07268142700195, FileName: image_00867.jpg
+	Distance: 51.56797409057617, FileName: image_00865.jpg
+	Distance: 56.092411041259766, FileName: image_00991.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00216.jpg', 'image_00217.jpg', 'image_00218.jpg', 'image_00219.jpg']
+Matches are: 
+	Distance: 1.4652812480926514, FileName: image_00216.jpg
+	Distance: 43.61668395996094, FileName: image_00219.jpg
+	Distance: 43.68732833862305, FileName: image_00218.jpg
+	Distance: 50.15869903564453, FileName: image_00217.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00360.jpg', 'image_00361.jpg', 'image_00362.jpg', 'image_00363.jpg']
+Matches are: 
+	Distance: 2.0819790363311768, FileName: image_00360.jpg
+	Distance: 40.70154571533203, FileName: image_00363.jpg
+	Distance: 40.75284194946289, FileName: image_00366.jpg
+	Distance: 42.268028259277344, FileName: image_00365.jpg
+	Precision@4: 0.5
+
+Current Correct list: ['image_00392.jpg', 'image_00393.jpg', 'image_00394.jpg', 'image_00395.jpg']
+Matches are: 
+	Distance: 1.0134459733963013, FileName: image_00392.jpg
+	Distance: 21.519636154174805, FileName: image_00394.jpg
+	Distance: 29.53868293762207, FileName: image_00157.jpg
+	Distance: 31.778339385986328, FileName: image_00393.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00008.jpg', 'image_00009.jpg', 'image_00010.jpg', 'image_00011.jpg']
+Matches are: 
+	Distance: 1.242384433746338, FileName: image_00008.jpg
+	Distance: 38.432212829589844, FileName: image_00010.jpg
+	Distance: 40.39044189453125, FileName: image_00009.jpg
+	Distance: 41.23638916015625, FileName: image_00011.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00992.jpg', 'image_00993.jpg', 'image_00994.jpg', 'image_00995.jpg']
+Matches are: 
+	Distance: 1.5118738412857056, FileName: image_00992.jpg
+	Distance: 28.057435989379883, FileName: image_00993.jpg
+	Distance: 31.289052963256836, FileName: image_00994.jpg
+	Distance: 35.687782287597656, FileName: image_00995.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00632.jpg', 'image_00633.jpg', 'image_00634.jpg', 'image_00635.jpg']
+Matches are: 
+	Distance: 1.1387563943862915, FileName: image_00632.jpg
+	Distance: 45.1592903137207, FileName: image_00634.jpg
+	Distance: 45.589725494384766, FileName: image_00635.jpg
+	Distance: 48.26813507080078, FileName: image_00633.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00876.jpg', 'image_00877.jpg', 'image_00878.jpg', 'image_00879.jpg']
+Matches are: 
+	Distance: 1.0155843496322632, FileName: image_00876.jpg
+	Distance: 39.46430587768555, FileName: image_00877.jpg
+	Distance: 40.77975845336914, FileName: image_00878.jpg
+	Distance: 44.521568298339844, FileName: image_00879.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00040.jpg', 'image_00041.jpg', 'image_00042.jpg', 'image_00043.jpg']
+Matches are: 
+	Distance: 0.8307480216026306, FileName: image_00040.jpg
+	Distance: 27.346736907958984, FileName: image_00041.jpg
+	Distance: 37.216636657714844, FileName: image_00042.jpg
+	Distance: 39.78248596191406, FileName: image_00043.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00924.jpg', 'image_00925.jpg', 'image_00926.jpg', 'image_00927.jpg']
+Matches are: 
+	Distance: 1.884566068649292, FileName: image_00924.jpg
+	Distance: 34.13855743408203, FileName: image_00926.jpg
+	Distance: 37.25516891479492, FileName: image_00927.jpg
+	Distance: 46.34880828857422, FileName: image_00925.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00848.jpg', 'image_00849.jpg', 'image_00850.jpg', 'image_00851.jpg']
+Matches are: 
+	Distance: 1.0676074028015137, FileName: image_00848.jpg
+	Distance: 38.711280822753906, FileName: image_00849.jpg
+	Distance: 50.60899353027344, FileName: image_00850.jpg
+	Distance: 62.19498825073242, FileName: image_00814.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00932.jpg', 'image_00933.jpg', 'image_00934.jpg', 'image_00935.jpg']
+Matches are: 
+	Distance: 1.3156163692474365, FileName: image_00932.jpg
+	Distance: 30.458847045898438, FileName: image_00933.jpg
+	Distance: 32.52585220336914, FileName: image_00935.jpg
+	Distance: 35.86484146118164, FileName: image_00934.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00164.jpg', 'image_00165.jpg', 'image_00166.jpg', 'image_00167.jpg']
+Matches are: 
+	Distance: 1.4948713779449463, FileName: image_00164.jpg
+	Distance: 55.045982360839844, FileName: image_00165.jpg
+	Distance: 56.0765266418457, FileName: image_00166.jpg
+	Distance: 56.49606704711914, FileName: image_00167.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00608.jpg', 'image_00609.jpg', 'image_00610.jpg', 'image_00611.jpg']
+Matches are: 
+	Distance: 1.5871999263763428, FileName: image_00608.jpg
+	Distance: 18.498998641967773, FileName: image_00609.jpg
+	Distance: 22.4077091217041, FileName: image_00610.jpg
+	Distance: 27.217655181884766, FileName: image_00611.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00052.jpg', 'image_00053.jpg', 'image_00054.jpg', 'image_00055.jpg']
+Matches are: 
+	Distance: 1.0440596342086792, FileName: image_00052.jpg
+	Distance: 43.30728530883789, FileName: image_00053.jpg
+	Distance: 46.41482925415039, FileName: image_00054.jpg
+	Distance: 47.47420120239258, FileName: image_00159.jpg
+	Precision@4: 0.75
+
+Current Correct list: ['image_00220.jpg', 'image_00221.jpg', 'image_00222.jpg', 'image_00223.jpg']
+Matches are: 
+	Distance: 1.6292260885238647, FileName: image_00220.jpg
+	Distance: 31.279821395874023, FileName: image_00223.jpg
+	Distance: 34.74147033691406, FileName: image_00222.jpg
+	Distance: 38.05084228515625, FileName: image_00221.jpg
+	Precision@4: 1.0
+
+Current Correct list: ['image_00212.jpg', 'image_00213.jpg', 'image_00214.jpg', 'image_00215.jpg']
+Matches are: 
+	Distance: 1.4817440509796143, FileName: image_00212.jpg
+	Distance: 55.015838623046875, FileName: image_00213.jpg
+	Distance: 55.55946731567383, FileName: image_00214.jpg
+	Distance: 60.97151565551758, FileName: image_00215.jpg
+	Precision@4: 1.0
+
+Total time taken for 250 images (minutes): 3.9367618640263875
+Total Precision@4 Avg: 0.942
