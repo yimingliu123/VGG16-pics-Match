@@ -1,0 +1,195 @@
+%%%%%%%%%%%%%%% (1) lemming %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 1;
+updatePartThr = 0.3f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 2;       
+updatePartRate = 5;        
+leastParts = 0.8f;      
+largestParts = 2;       
+moveRange = 5;
+ 
+%%%%%%%%%%%%%%% (2) waterski %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 0.5f;
+updatePartThr = 0.8f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 2;       
+updatePartRate = 3;        
+leastParts = 0.6f;      
+largestParts = 3;       
+moveRange = 9;
+
+%%%%%%%%%%%%%%% (3) lipinski %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 0.5f;
+updatePartThr = 0.6f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 2;       
+updatePartRate = 3;        
+leastParts = 0.6f;      
+largestParts = 2;       
+moveRange = 5;
+
+%%%%%%%%%%%%%%% (4) yunakim %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 0.5f;
+updatePartThr = 1.6f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 3;       
+updatePartRate = 2;        
+leastParts = 0.6f;      
+largestParts = 2;       
+moveRange = 9;
+
+%%%%%%%%%%%%%%% (5) football %%%%%%%%%%%%%%%
+searchScale = 3;
+updateSegThr = 1;
+updatePartThr = 0.3f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 2;       
+updatePartRate = 5;        
+leastParts = 0.8f;      
+largestParts = 3;       
+moveRange = 5;   
+
+%%%%%%%%%%%%%%% (6) kwan %%%%%%%%%%%%%%%    
+searchScale = 5;
+updateSegThr = 1;
+updatePartThr = 0.6f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 2;       
+updatePartRate = 3;        
+leastParts = 0.6f;      
+largestParts = 3;       
+moveRange = 5; 
+
+%%%%%%%%%%%%%%% (7) transformer %%%%%%%%%%%%%%%    
+searchScale = 5;
+updateSegThr = 1;
+updatePartThr = 0.8f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 3;       
+updatePartRate = 5;        
+leastParts = 0.5f;      
+largestParts = 1.5f;       
+moveRange = 9;  
+
+%%%%%%%%%%%%%%% (8) gymnastics %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 0.3f;
+updatePartThr = 0.3f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 1.2f;       
+updatePartRate = 3;        
+leastParts = 0.8f;      
+largestParts = 2;       
+moveRange = 5;
+
+%%%%%%%%%%%%%%% (9) diving %%%%%%%%%%%%%%%    
+searchScale = 5;
+updateSegThr = 1;
+updatePartThr = 0.8f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 5;       
+updatePartRate = 2;        
+leastParts = 0.8f;      
+largestParts = 2;       
+moveRange = 9; 
+
+%%%%%%%%%%%%%%% (10) bolt %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 0.5f;
+updatePartThr = 0.3f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 1.2f;       
+updatePartRate = 3;        
+leastParts = 0.8f;      
+largestParts = 2;       
+moveRange = 9;
+
+%%%%%%%%%%%%%%% (11) basketball %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 1;
+updatePartThr = 0.3f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 1.2f;       
+updatePartRate = 5;        
+leastParts = 0.8f;      
+largestParts = 3;       
+moveRange = 9; 
+
+%%%%%%%%%%%%%%% (12) dancer %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 1;
+updatePartThr = 0.3f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 1.2f;       
+updatePartRate = 2;        
+leastParts = 0.6f;      
+largestParts = 3;       
+moveRange = 9; 
+
+%%%%%%%%%%%%%%% (15) bluecar %%%%%%%%%%%%%%%    
+searchScale = 5;
+updateSegThr = 1;
+updatePartThr = 2.6f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 2;       
+updatePartRate = 5;        
+leastParts = 0.6f;      
+largestParts = 3;       
+moveRange = 5;
+
+%%%%%%%%%%%%%%% (16) avatar %%%%%%%%%%%%%%%    
+searchScale = 5;
+updateSegThr = 0.5f;
+updatePartThr = 0.6f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 4;       
+updatePartRate = 2;        
+leastParts = 1;      
+largestParts = 5;       
+moveRange = 5;
+
+%%%%%%%%%%%%%%% (17) up %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 1;
+updatePartThr = 0.6f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 2;       
+updatePartRate = 5;        
+leastParts = 0.6f;      
+largestParts = 2;       
+moveRange = 5;
+
+%%%%%%%%%%%%%%% (18) neymar %%%%%%%%%%%%%%%    
+searchScale = 3;
+updateSegThr = 1;
+updatePartThr = 0.8f;  
+updateSvmRate = 3;        
+reInitSvmRate = 20;       
+scaleFactor = 1.2f;       
+updatePartRate = 5;        
+leastParts = 0.8f;      
+largestParts = 2;       
+moveRange = 9;
+
+
+
+
